@@ -18,7 +18,7 @@ website:
            
     favicon: 'assets/Logo_CRS_col.svg'
     
-    site-url: https://gitlab.uzh.ch/crsuzh/ror-event-2026
+    site-url: https://crsuzh.pages.uzh.ch/ror-event-2026
     repo-url: https://gitlab.uzh.ch/crsuzh/ror-event-2026
     
     navbar:
