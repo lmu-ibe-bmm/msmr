@@ -10,7 +10,7 @@ listing:
   sort: false  
   contents: 
     - ./call/*.qmd
-    - ./program/*.qmd
+    - ./programme/*.qmd
     - ./committee/*.qmd
 
 toc: false
