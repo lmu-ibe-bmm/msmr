@@ -28,7 +28,7 @@ website:
           - text: "Call for Contributions"            
             href: ./call/index.qmd
           - text: "Programme"
-            href: ./program/index.qmd
+            href: ./programme/index.qmd
           - text: "Organizing Committee"
             href: ./committee/index.qmd
 
