@@ -1,6 +1,5 @@
 ---
 title: "Call for Contributions" 
-date: "January 29-30, 2026"
 ---
 
 Following the successful inaugural Research on Research (RoR) event in 2024 organised by the Swiss National Science Foundation, the Center for Reproducible Science and Research Synthesis (CRS) is pleased to invite contributions to a follow-up event at the University of Zurich. 

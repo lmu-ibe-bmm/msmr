@@ -1,11 +1,5 @@
 ---
 title: Organizing committee
-format:
-  html:
-    toc-depth: 4
-    df-print: paged
-execute: 
-  eval: true
 ---
 
 The organizing committee carefully assesses submissions and establishes the programme.
