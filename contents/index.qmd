@@ -25,7 +25,7 @@ page-layout: full
 **Contribution submission deadline:** 1 November, 2025  
 **Registration deadline:** 1 December, 2025
 
-This event aims to connect researchers in Switzerland engaged in improving reproducibility, reliability, quality, and integrity of current research practices.
+This event aims to connect researchers in Switzerland engaged in improving reproducibility, reliability, quality, and integrity of current research practices. 
 
 We invite contributions on:
 
@@ -35,7 +35,7 @@ We invite contributions on:
 - Research assessment and science policy  
 - Open Science and reproducible research  
 
-Hosted by the [Center for Reproducible Science and Research Synthesis](https://www.crs.uzh.ch/en.html)
-
 ::: {#main-listing}
 :::
+
+Hosted by the [Center for Reproducible Science and Research Synthesis](https://www.crs.uzh.ch/en.html)
