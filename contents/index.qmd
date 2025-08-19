@@ -27,7 +27,7 @@ page-layout: full
 
 This event aims to connect researchers in Switzerland engaged in improving reproducibility, reliability, quality, and integrity of current research practices.
 
-We invite contributions on topics in:
+We invite contributions on:
 
 - Research on research methodology (including AI, causal inference, forensic metascience, and research synthesis)  
 - Epistemic diversity and biases in science  
