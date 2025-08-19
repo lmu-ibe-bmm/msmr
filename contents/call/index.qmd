@@ -1,0 +1,32 @@
+---
+title: "Call for Contributions" 
+date: "January 29-30, 2026"
+---
+
+Following the successful inaugural Research on Research (RoR) event in 2024 organised by the Swiss National Science Foundation, the Center for Reproducible Science and Research Synthesis (CRS) is pleased to invite contributions to a follow-up event at the University of Zurich. 
+
+The programme on the first day will showcase contributions from the Swiss Research on Research community. On the second day we will organize workshops to lay the groundwork for a large collaborative grant proposal.
+
+This event aims to connect researchers in Switzerland engaged in improving reproducibility, reliability, quality, and integrity of current research practices. A vibrant Swiss RoR community is vital for advancing this field, securing its financial sustainability, and enhancing the Swiss research landscape. Join us to share your work, exchange ideas, and shape future RoR collaborations in Switzerland.
+
+### Topics
+
+We invite contributions – short talks or posters – from Switzerland-based researchers on topics in:
+
+- Research on research methodology (including AI, causal inference, forensic metascience, and research synthesis)
+- Epistemic diversity and biases in science
+- Research culture and integrity
+- Research assessment and science policy
+- Open Science and reproducible research
+
+The scientific committee of the event will evaluate all submissions and inform about acceptance within four weeks after the deadline.
+
+
+### Registration and submission
+
+Register and/or submit your contribution via this form: <https://forms.office.com/e/kRp1pxgrX6>
+
+**Contribution submission deadline:** 1 November, 2025  
+**Registration deadline:** 1 December, 2025
+
+
