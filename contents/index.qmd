@@ -20,7 +20,7 @@ page-layout: full
 **Date**: 29 and 30 January, 2026  
 **Location**: University of Zurich, room [KOL](https://www.plaene.uzh.ch/KOL)-F-101, Rämistrasse 59, 8001 Zürich
 
-[Register now](https://forms.office.com/e/kRp1pxgrX6){.btn .btn-primary} 
+[Register or submit now](https://forms.office.com/e/kRp1pxgrX6){.btn .btn-primary} 
 
 **Contribution submission deadline:** 1 November, 2025  
 **Registration deadline:** 1 December, 2025
