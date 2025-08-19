@@ -1,21 +1,22 @@
-# Workshop on Reproducible and Dynamic Reporting with R and Quarto on May 15, 2025 at the University of Zurich
+# Research on Research Event 2026
 
-The website for this workshop is: <https://crsuzh.pages.uzh.ch/workshop-quarto-2025-uzh>
+**Towards a vibrant Swiss research on research community**
 
+- **Date:** 29 and 30 January, 2026
+- **Location:** University of Zurich, room KOL-F-101, Rämistrasse 59, 8001 Zürich
 
-# Citation 
-Cite this workshop as
-> Molo, F., Fraga González, G., Pawel, S. 2025. Reproducible and Dynamic Reporting with R and Quarto - Getting started. Workshop at the University of Zurich. <https://doi.org/10.5281/zenodo.14169002>
+This event aims to connect researchers in Switzerland engaged in improving reproducibility, reliability, quality, and integrity of current research practices.
 
-A BibTeX entry is given by
+## Event Topics
 
-```
-@misc{,
-  author       = {Fabio Molo and Gorka {Fraga Gonz\'{a}lez} and Samuel Pawel},
-  title        = {Workshop ``Reproducible and Dynamic Reporting with R and Quarto -- Getting started'' at UZH},
-  month        = May,
-  year         = 2025,
-  doi          = {doi.org/10.5281/zenodo.14169002},
-  url          = {https://crsuzh.pages.uzh.ch/workshop-quarto-2025-uzh/}
-}
-```
+We invite contributions – short talks or posters – from Switzerland-based researchers on topics in:
+
+- Research on research methodology (including AI, causal inference, forensic metascience, and research synthesis)  
+- Epistemic diversity and biases in science  
+- Research culture and integrity  
+- Research assessment and science policy  
+- Open Science and reproducible research
+
+## Website
+
+The website for this event will be available at: [TBD - update when deployed]
