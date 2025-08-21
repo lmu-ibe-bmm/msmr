@@ -2,9 +2,7 @@
 title: Organizing committee
 ---
 
-The organizing committee carefully assesses submissions and establishes the programme.
-
-## Members
+The organizing committee assesses submissions and establishes the programme.
 
 ::: {layout-ncol=3}
 
@@ -17,7 +15,7 @@ The organizing committee carefully assesses submissions and establishes the prog
 
 ![Fabio Molo](../assets/fabio_molo.jpg){width=120px}
 
-![N.N.](../assets/nn.jpg){width=120px}
+![Anne Scheel](../assets/anne_scheel.jpg){width=120px}
 
 :::
 

@@ -1,6 +1,6 @@
 ---
 title: Research on Research Event 2026
-subtitle: For a vibrant Swiss research on research community
+subtitle: For a vibrant Swiss Research on Research community
 sidebar: false
 listing:
   type: grid
