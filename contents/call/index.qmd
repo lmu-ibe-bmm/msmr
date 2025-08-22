@@ -6,7 +6,7 @@ Following the successful inaugural Research on Research (RoR) event in 2024 orga
 
 The programme on the first day will showcase contributions from the Swiss Research on Research community. On the second day we will organize workshops to lay the groundwork for a large collaborative grant proposal.
 
-This event aims to connect researchers in Switzerland engaged in improving reproducibility, reliability, quality, and integrity of current research practices. A vibrant Swiss RoR community is vital for advancing this field, securing its financial sustainability, and enhancing the Swiss research landscape. Join us to share your work, exchange ideas, and shape future RoR collaborations in Switzerland.
+This event aims to connect researchers in Switzerland engaged in improving reproducibility, reliability, quality, and integrity of current research practices. A vibrant Swiss RoR community is vital for advancing this field, securing its financial sustainability, and enhancing the Swiss research landscape. Join us to share your work, exchange ideas, and shape future RoR collaborations in Switzerland!
 
 ### Topics
 
@@ -19,7 +19,6 @@ We invite contributions – short talks or posters – from Switzerland-based re
 - Open Science and reproducible research
 
 The scientific committee of the event will evaluate all submissions and inform about acceptance within four weeks after the deadline.
-
 
 ### Registration and submission
 
