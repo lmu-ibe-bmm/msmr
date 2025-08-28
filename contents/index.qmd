@@ -2,17 +2,19 @@
 title: Research on Research Event 2026
 subtitle: For a vibrant Swiss Research on Research community
 sidebar: false
+about:
+  template: trestles
+  image: assets/2Glasses_Blue.png
 listing:
   type: grid
   id: main-listing
   fields: [title]
-  grid-columns: 4
+  grid-columns: 3
   sort: false  
   contents: 
     - ./call/*.qmd
     - ./programme/*.qmd
     - ./committee/*.qmd
-
 toc: false
 page-layout: full
 ---
@@ -40,4 +42,4 @@ Join us to share your work, exchange ideas, and shape future RoR collaborations 
 ::: {#main-listing}
 :::
 
-Hosted by the [Center for Reproducible Science and Research Synthesis](https://www.crs.uzh.ch/en.html)
+Hosted by the [Center for Reproducible Science and Research Synthesis (CRS)](https://www.crs.uzh.ch/en.html)

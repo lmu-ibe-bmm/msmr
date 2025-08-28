@@ -2,7 +2,6 @@ project:
   type: website
             
 website:
-    title: "RoR Event 2026"
     page-navigation: true
     back-to-top-navigation: true
     page-footer:        
@@ -16,7 +15,7 @@ website:
            \ Source code on [![](https://images.ctfassets.net/xz1dnu24egyd/1hnQd13UBU7n5V0RsJcbP3/769692e40a6d528e334b84f079c1f577/gitlab-logo-100.png){fig-alt="Git" width=65px}](https://gitlab.uzh.ch/crsuzh/ror-event-2026)
            
            
-    favicon: 'assets/Logo_CRS_col.svg'
+    #favicon: 'assets/Logo_CRS_col.svg'
     
     site-url: https://crsuzh.pages.uzh.ch/ror-event-2026
     repo-url: https://gitlab.uzh.ch/crsuzh/ror-event-2026
@@ -39,6 +38,7 @@ format:
         theme:
           light: flatly
           dark: darkly
+        css: assets/custom.css
         code-link: true
         toc: true
         toc-expand: 4
