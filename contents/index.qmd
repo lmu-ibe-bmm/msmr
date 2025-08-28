@@ -9,12 +9,13 @@ listing:
   type: grid
   id: main-listing
   fields: [title]
-  grid-columns: 3
+  grid-columns: 2
   sort: false  
   contents: 
     - ./call/*.qmd
     - ./programme/*.qmd
     - ./committee/*.qmd
+    - ./contact/*.qmd
 toc: false
 page-layout: full
 ---
