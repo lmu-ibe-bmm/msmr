@@ -1,10 +1,18 @@
 ---
-title: "Contact"
+title: "Contact the organisers"
 ---
 
-If you have any questions, feel free to contact us:
+If you have any questions, feel free to contact the local organisers at [crs@ebpi.uzh.ch](mailto:crs@ebpi.uzh.ch).
 
-<fabio.molo@uzh.ch>  
+### Local organisers
 
-<rachel.heyard@uzh.ch>
+::: {layout-ncol=3}
+
+![Schirin Ghazivakili](../assets/schirin_ghazivakili.jpg){height=180px}
+
+![Rachel Heyard](../assets/heyard_rachel.jpg){height=180px}
+
+![Fabio Molo](../assets/fabio_molo.jpg){height=180px}
+
+
 

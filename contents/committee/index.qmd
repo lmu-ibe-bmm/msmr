@@ -1,15 +1,14 @@
 ---
-title: Organizing committee
+title: Scientific committee
 ---
 
-The organizing committee assesses submissions and establishes the programme.
+The scientific committee is responsible for the evaluation and selection of the submitted contributions and establishes the programme.
 
 ::: {layout-ncol=3}
 
 ![Matthias Egger](../assets/matthias_egger.jpg){width=120px}
 
 ![Leonhard Held](../assets/leonhard_held.jpg){width=120px}
-
 
 ![Rachel Heyard](../assets/heyard_rachel.jpg){width=120px}
 
