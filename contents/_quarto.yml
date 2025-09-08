@@ -30,7 +30,7 @@ website:
             href: ./call/index.qmd
           - text: "Programme"
             href: ./programme/index.qmd
-          - text: "Organizing Committee"
+          - text: "Scientific Committee"
             href: ./committee/index.qmd
           - text: "Contact"
             href: ./contact/index.qmd
