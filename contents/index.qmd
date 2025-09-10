@@ -20,8 +20,13 @@ toc: false
 page-layout: full
 ---
 
-**Date**: 29 and 30 January, 2026  
-**Location**: University of Zurich, [KOL](https://www.plaene.uzh.ch/KOL)-F-101, Rämistrasse 59, 8001 Zürich
+**Date:**
+
+- 29 January, 2026: contributions from the Swiss Research on Research community   
+
+- 30 January, 2026: workshops towards a large collaborative grant proposal  
+
+**Location:** University of Zurich, [KOL](https://www.plaene.uzh.ch/KOL)-F-101, Rämistrasse 59, 8001 Zürich
 
 [Register](https://forms.office.com/e/kRp1pxgrX6){.btn .btn-primary}  
 
