@@ -20,6 +20,8 @@ toc: false
 page-layout: full
 ---
 
+**Date:**
+
 - 29 January, 2026: contributions from the Swiss Research on Research community   
 
 - 30 January, 2026: workshops towards a large collaborative grant proposal  
