@@ -2,7 +2,7 @@
 title: Scientific committee
 ---
 
-The scientific committee is responsible for the evaluation and selection of the submitted contributions and establishes the programme.
+The scientific committee is responsible for the evaluation and selection of the submitted contributions for the first day of the event, and establishes the programme of the second event day, i.e. workshops towards collaborative research on research grant proposals.
 
 ::: {layout-ncol=3}
 
