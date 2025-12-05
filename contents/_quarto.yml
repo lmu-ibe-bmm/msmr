@@ -48,4 +48,4 @@ format:
         toc-expand: 4
         code-copy: true
 
-freeze: auto
+# freeze: auto
