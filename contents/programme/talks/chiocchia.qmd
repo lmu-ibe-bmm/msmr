@@ -1,0 +1,25 @@
+---
+title: "Living systematic reviews of human and animal studies for research prioritisation in mental health: a transparent and reproducible evidence synthesis framework"
+---
+
+**Speaker:** [Virginia Chiocchia](https://www.ispm.unibe.ch/about_us/staff/chiocchia_virginia/index_eng.html), University of Bern
+
+**Co-Authors:**  
+
+  - Andrea Cipriani, Oxford Precision Psychiatry Lab, Department of Psychiatry, University of Oxford  
+  - Georgia Salanti, Institute of Social and Preventive Medicine, University of Bern  
+
+on behalf of the GALENOS team
+
+
+### Abstract
+
+The Global Alliance for Living Evidence on aNxiety, depressiOn and pSychosis (GALENOS, https://www.galenos.org.uk/), launched in 2023, is an international interdisciplinary initiative designed to advance open, transparent, and reproducible research synthesis in mental health. GALENOS aims to develop and maintain an open-access, living evidence resource to inform early-phase research prioritisation for anxiety, depression, and psychosis. Bringing together researchers, methodologists, clinicians, and experiential advisors, the programme integrates and synthesises findings from diverse evidence sources—including preclinical and clinical studies—covering pharmacological and non-pharmacological interventions, as well as diagnostic and prognostic tools. 
+Central to GALENOS is the adoption of innovative, fit-for-purpose methodologies for living systematic reviews (LSRs) and meta-analyses. Each LSR is assessed using a bespoke framework to evaluate biases, credibility, and validity. Results are presented in detailed, standardised evidence summary tables, documenting key associations, internal and external validity issues, and potential reporting or other biases. When feasible, results from different sources of evidence are combined and assessed through a triangulation process.
+GALENOS exemplifies open and reproducible science through full transparency at every stage: all protocols, templates, outputs, and online platforms such as the Psychosis Systematic Online Living Evidence Summary (e.g Psychosis-SOLES, https://camarades.shinyapps.io/psychosis-soles/) are publicly accessible. Furthermore, data, analytical code, and workflow documentation are hosted in dedicated GitHub repositories, ensuring traceability and enabling collaboration across teams. Upon publication of each LSR’s first iteration, all associated materials are deposited in the GALENOS Data Repository (https://galenos-data.aliveevidence.org/), supporting continuous updating and reuse.
+In this presentation, I will illustrate these transparent and reproducible process using a completed GALENOS living systematic review as a case example, highlighting how open workflows, shared data, and living updates enhance the credibility and impact of evidence synthesis in mental health research.
+
+
+References:
+Cipriani A, Seedat S, Milligan L, Salanti G, Macleod M, Hastings J, et al. New living evidence resource of human and non-human studies for early intervention and research prioritisation in anxiety, depression and psychosis. BMJ Ment Health. 2023;26. https://doi.org/10.1136/bmjment-2023-300759.
+Smith KA, Boyce N, Chevance A, Chiocchia V, Correll CU, Donoghue K, et al. Triangulating evidence from the GALENOS living systematic review on trace amine-associated receptor 1 (TAAR1) agonists in psychosis. The British Journal of Psychiatry. 2024;:1–9. https://doi.org/10.1192/bjp.2024.237.

@@ -16,16 +16,16 @@ Leonhard Held, University of Zurich
 
 **09:20 – 10:20 | Empirical research on research**
 
-*Learning Research System for Swiss Clinical Trials*
+[*Learning Research System for Swiss Clinical Trials*](talks/briel.qmd)
 : Matthias Briel, University of Basel
 
-*Stumble over a Blunder: Editorial Policy and Research Reporting*
+[*Stumble over a Blunder: Editorial Policy and Research Reporting*](talks/zigova.qmd)
 : Katarina Zigova, University of Zurich
 
-*(Un)informed Consent: To What Degree are Research Participants 'Informed' by Common Consent Procedures in Psychology under EU Data Protection Law?*
+[*(Un)informed Consent: To What Degree are Research Participants 'Informed' by Common Consent Procedures in Psychology under EU Data Protection Law?*](talks/jansen.qmd)
 : Luisa Jansen, University of Bern
 
-*Improving interpretation and communication of clinical trial results via probabilistic statements*
+[*Improving interpretation and communication of clinical trial results via probabilistic statements*](talks/efthimiou.qmd)
 : Orestis Efthimiou, University of Bern
 
 **10:20 – 10:50 | Coffee Break**
@@ -39,10 +39,10 @@ Leonhard Held, University of Zurich
 
 **12:05 – 12:35 | Empirical research on research (continued)**
 
-*Assessing Gender Awareness in Research Evaluation: A Text Analysis Approach*
+[*Assessing Gender Awareness in Research Evaluation: A Text Analysis Approach*](talks/okasa.qmd)
 : Gabriel Okasa, Swiss National Science Foundation
 
-*From Wearable Biometrics to Reproducible AI: Generalizing Evaluation Guidelines for Human-Centered Research*
+[*From Wearable Biometrics to Reproducible AI: Generalizing Evaluation Guidelines for Human-Centered Research*](talks/alecci.qmd)
 : Lidia Alecci, Università della Svizzera italiana
 
 **12:35 – 13:30 | Lunch break**
@@ -51,15 +51,15 @@ Leonhard Held, University of Zurich
 
 **14:15 – 15:15 | Research synthesis**
 
-*Large language model-based extraction and analysis of public assessment reports from six major drug regulators*
-: Benjamin Ineichen, University of Bern
+[*Large language model-based extraction and analysis of public assessment reports from six major drug regulators*](talks/ineichen.qmd)
+: Jacqueline Dort; Hanna Hubarava; Benjamin Ineichen, University of Bern
 
-*Living systematic reviews of human and animal studies for research prioritisation in mental health: a transparent and reproducible evidence synthesis framework*
+[*Living systematic reviews of human and animal studies for research prioritisation in mental health: a transparent and reproducible evidence synthesis framework*](talks/chiocchia.qmd)
 : Virginia Chiocchia, University of Bern
 
 **15:15 – 16:10 | Keynote**
 
-*The Reproducibility Crisis in Biomedical Research*
+[*The Reproducibility Crisis in Biomedical Research*](talks/szabo.qmd)
 : Csaba Szabo, University of Fribourg
 
 *Invited discussion*
@@ -69,16 +69,16 @@ Leonhard Held, University of Zurich
 
 **16:40 – 17:40 | Replication and forensic meta-science**
 
-*What 400 Drosophila Papers Teach Us about Doing Better Science*
+[*A retrospective analysis of 400 publications reveals patterns of irreproducibility across an entire life sciences research field*](talks/lemaitre.qmd)
 : Bruno Lemaitre, EPFL
 
-*An overview of tools for detecting irregularities in reported summary statistics*
+[*An overview of tools for detecting irregularities in reported summary statistics*](talks/jung.qmd)
 : Lukas Jung, University of Bern
 
-*Operationalizing Metascience: An AI Tool to Detect Hidden Methodological Flaws at Scale*
+[*Operationalizing Metascience: An AI Tool to Detect Hidden Methodological Flaws at Scale*](talks/hilpert.qmd)
 : Peter Hilpert, University of Lausanne
 
-*ERЯOR: A Bug Bounty Program for Science*
+[*ERЯOR: A Bug Bounty Program for Science*](talks/elson.qmd)
 : Malte Elson, University of Bern
 
 **17:40 – 18:00 | Conclusion of Day 1 & Preview of Day 2**

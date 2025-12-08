@@ -1,0 +1,19 @@
+---
+title: "(Un)informed Consent: To What Degree are Research Participants 'Informed' by Common Consent Procedures in Psychology under EU Data Protection Law?"
+---
+
+**Speaker:** [Luisa Jansen](https://www.dig.psy.unibe.ch/about_us/staff/m_sc_jansen_luisa/index_eng.html), University of Bern
+
+**Co-Authors:**  
+
+  - Malte Elson, University of Bern  
+
+### Abstract
+
+There is reason to believe that consent forms in psychological research may routinely not fulfill the requirements for consent outlined in EU data protection law. Where this is the case, the legitimacy of the research conducted may be undermined, potentially resulting in restrictions on subsequent research, obligations to delete data, or limitations on the sharing of psychological research data. However, so far, there is no empirical data to support the proposition that compliance may not be the norm. 
+
+We present the results of a content analysis of a sample of psychological research reports and consent forms used in those studies. Waves of studies published between 2019 and 2021 were randomly selected and included when authors submitted the corresponding consent forms, resulting in 101 consent forms and research papers analyzed. We evaluate the compliance of consent forms with the General Data Protection Regulation (GDPR) and systematically compare the data collected as reported in the research papers with the details provided in the respective consent forms given to research participants.
+
+Results indicate that all consent forms lack essential information for participants, particularly regarding the data controller, the data collected in the study, and their legal rights. Comparing the collection of data types, the consent forms appear to be more superficial than the research papers, leading to mismatches, particularly regarding demographic data and sensitive information. A subgroup analysis of papers reporting sensitive data collection (n = 58) showed that compliance with legally mandated information practices of data subjects does not improve descriptively, despite the data being associated with higher risks.  
+
+We discuss the reasons for these shortcomings and present ways forward for social scientists to facilitate both the sharing of research data and the protection of their participants’ privacy when enabling participants to give truly informed consent.

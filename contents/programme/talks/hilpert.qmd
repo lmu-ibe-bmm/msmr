@@ -1,0 +1,13 @@
+---
+title: "Operationalizing Metascience: An AI Tool to Detect Hidden Methodological Flaws at Scale"
+---
+
+**Speaker:** [Peter Hilpert](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1233662&LanCode=8), University of Lausanne
+
+**Co-Authors:** 
+
+  - Matthew Vowels  
+
+### Abstract
+
+*Abstract to be added*

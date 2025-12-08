@@ -1,0 +1,25 @@
+---
+title: "Large language model-based extraction and analysis of public assessment reports from six major drug regulators"
+---
+
+**Speaker:** 
+
+  - Jacqueline Dort, University of Bern  
+  - Hanna Hubarava, University of Bern  
+
+**Co-Authors:**  
+
+  - Benjamin Ineichen, University of Bern
+  - Perrine Janiaud, University of Bern  
+
+### Abstract
+
+Background: Systematic reviews usually rely on published literature, but regulatory approval documents hold extensive drug development and decision data that remain underused. These documents are difficult to integrate because they are unstructured, agency-specific, and spread across authorities such as the US Food and Drug Administration (FDA), European Medicines Agency (EMA), and Swissmedic.
+
+Objective: Develop and validate a large language model (LLM) pipeline to extract key drug characteristics from approval documents of six major agencies and describe approval patterns.
+
+Methods: We analysed public assessment reports (PARs) from FDA, EMA, Health Canada, Pharmaceuticals and Medical Devices Agency (PMDA), Swissmedic, and Therapeutic Goods Administration (TGA). The LLM pipeline (gpt-4o) extracted drug class, indication, pharmaceutical form, route of administration, and approval timeline. We validated performance against a held-out manual dataset.
+
+Results: We processed 3717 full-text PARs (EMA, PMDA, Swissmedic, TGA) and combined structured and unstructured data for nearly 40 000 FDA and Health Canada submissions. The pipeline showed high accuracy (F1 0.96 for drug class). Small molecules formed most approvals (50–80% across agencies). Biologics increased over time. Oncology and infectious disease indications were most common.
+
+Interpretation: A validated LLM pipeline enables automated extraction of key information from global regulatory approval documents. This makes these sources usable for systematic review and large-scale analysis of drug development and approval trends.

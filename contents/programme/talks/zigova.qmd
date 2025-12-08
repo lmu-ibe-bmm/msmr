@@ -1,0 +1,20 @@
+---
+title: "Stumble over a Blunder: Editorial Policy and Research Reporting"
+---
+
+**Speaker:** [Katarina Zigova](https://www.business.uzh.ch/en/research/professorships/personneleconomics2.html), University of Zurich
+
+**Co-Authors:**  
+
+  - Valon Kadriu, University of Kassel and INCHER Kassel, Germany  
+  - Burcu Özgün, Utrecht University, Netherlands
+
+### Abstract
+
+In this study, we examine whether the introduction of mandatory research data policies in top economics journals in 2005–2006 improved the clarity of empirical reporting. These policies require authors to publicly share the data and code underlying their results as a condition for publication. By exposing empirical work to greater scrutiny, such policies likely encourage authors to re-examine their code and outputs more carefully–sometimes ``stumbling over a reporting blunder'' in the process–and thereby improve the clarity and self-containment of empirical results. We therefore ask whether mandatory data policies enhance the accuracy of reported findings, and the quality of how empirical results are presented, particularly in
+the tables where those results are most visible. 
+
+A natural expectation is that mandatory data policies enhance the quality and transparency of empirical tables. However, the policy could also lead to unintended consequences, such as excessively long table notes or denser presentations without meaningful informational gains. To address these possibilities, we investigate both qualitative and quantitative dimensions of reporting. Specifically, we evaluate table-note length and readability,
+completeness of information (e.g., data sources, sample size, goodness-of-fit metrics), clarity about empirical specifications and standard errors, and the transparency regarding control variables.
+
+Our analysis relies on a newly collected table-level dataset capturing detailed proxies for table comprehensibility. We merge this with estimate- and article-level data from Brodeur et al. (2016), which provide rich information on paper, author, and estimate characteristics. The combined dataset covers all empirical articles published between 2002 and 2009 in three leading economics journals: American Economic Journal, Journal of Political Economy, and Quarterly Journal of Economics. Our findings contribute to the growing literature on the effects of editorial policies on research quality (e.g., Blanco-Perez and Brodeur, 2020; Askarov et al., 2023; Brodeur et al., 2024) and to literature the readability of empirical research and research reporting flaws (e.g., Bruns et al., 2019; Hengel, 2022).

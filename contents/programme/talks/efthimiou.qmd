@@ -1,0 +1,28 @@
+---
+title: "Improving interpretation and communication of clinical trial results via probabilistic statements"
+---
+
+**Speaker:** [Orestis Efthimiou](https://www.biham.unibe.ch/ueber_uns/personen/efthimiou_orestis/index_ger.html), University of Bern
+
+**Co-Authors:**  
+
+  - Konstantina Chalkou, University of Bern  
+  - Georgios Siontis, University of Bern  
+  - Urs Fischer, University of Bern  
+  - Thomas Perneger, University of Geneva  
+  - Georgia Salanti, University of Bern  
+  - Angèle Gayet-Ageron, University of Bern  
+
+### Abstract
+
+Background: Clinical trials are commonly analysed using frequentist methods, and results are interpreted according to their statistical significance. However, p-values as well as effect measures such as the odds/hazard ratios may be poorly understood by researchers, patients, and clinicians. Moreover, communicating uncertainty around treatment effects can be very challenging. Probabilistic statements—such as the probability that a new therapy is more effective than the control—offer a clearer and more intuitive way to convey results and their uncertainty. They can be easily obtained via Bayesian analyses.
+
+Objective: To empirically illustrate the utility of probabilistic statements in generating interpretable and informative results.
+
+Data: 130 negative trials (p-value>0.05) published in high impact-factor medical journals in 2021; 225 positive trials (p-value<0.05) in oncology, published between 2009-2019; one randomized clinical trial comparing early vs late treatment with Direct Oral Anticoagulants (DOACs) in post-ischemic stroke patients with atrial fibrillation as case study. 
+
+Methods: We re-analysed the primary outcomes of all included trials using Bayesian methods to obtain posterior probabilities that the experimental treatment is better than control, and that the effect is above specific thresholds for clinical significance.
+
+Results: In 26/169 (15%) and 11/169 (7%) of negative trials, treatment likely outperformed control (>90% and >95% probability that the experimental treatment is better than control respectively); in 25/234 (11%) of positive trials, benefits were clinically uncertain (<50% probability that treatment reduces hazards by 20% or more). Early intervention with DOACs is 93% likely to decrease the risk of the composite outcome of recurrent ischemic stroke, intracranial haemorrhage, systemic embolism, extracranial bleeding, or vascular death.
+
+Conclusions: Communication of trial findings and clinical-decision making can greatly benefit from probabilistic statements. Relying on statistical significance—without considering clinical importance—can mislead decision-making and potentially harm patients. We provide a web-app that we can be used to obtain probabilistic statements.

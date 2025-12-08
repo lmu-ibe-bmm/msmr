@@ -1,0 +1,24 @@
+---
+title: "From Wearable Biometrics to Reproducible AI: Generalizing Evaluation Guidelines for Human-Centered Research"
+---
+
+**Speaker:** [Lidia Alecci](https://pc.inf.usi.ch/team/lidia-alecci/), Università della Svizzera italiana
+
+**Co-Authors:**  
+
+  - Matías Laporte, Università della Svizzera Italiana
+  - Leonardo Alchieri, Università della Svizzera Italiana
+  - Nouran Abdalazim, Università della Svizzera Italiana
+  - Silvia Santini, Università della Svizzera Italiana
+
+### Abstract
+
+Machine learning systems trained on human physiological or behavioral data are increasingly used across research domains, from biometrics to health monitoring and affect recognition. Yet, despite rapid methodological progress, their evaluation practices often fail to ensure robustness, reproducibility, and real-world validity. In our recent study on photoplethysmography (PPG)-based biometric recognition, we systematically replicated prior work and demonstrated that models achieving near-perfect accuracy in laboratory conditions can collapse when tested under realistic settings. These results revealed that small sample sizes, temporal data leakage, and lack of testing on unseen users can drastically overestimate model performance.
+Building on these findings, this contribution proposes a set of general evaluation guidelines for human-centered research. The framework emphasizes: 
+
+(1) the use of longitudinal and real-world datasets to assess model stability over time;  
+(2) temporal separation between training and testing to avoid inflated results;  
+(3) systematic evaluation with unseen participants to ensure generalization;   and
+(4) transparent reporting practices, including open code, data documentation, and robust metrics, to enhance reproducibility and comparability.  
+
+Although developed in the context of wearable-based biometrics, these principles apply broadly to other fields that rely on machine learning and human-centered data. By translating lessons from biometrics into a generalizable framework, we aim to stimulate reflection on how methodological rigor can improve the reliability, transparency, and societal value of AI-enabled science.

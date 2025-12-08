@@ -1,0 +1,15 @@
+---
+title: "ERЯOR: A Bug Bounty Program for Science"
+---
+
+**Speaker:** [Malte Elson](https://www.dig.psy.unibe.ch/about_us/staff/prof_dr_elson_malte/index_eng.html), University of Bern
+
+**Co-Authors:**  
+
+  - Ian Hussey, University of Bern  
+  - Jamie Cummins, University of Bern  
+  - Ruben Arslan, University of Witten/Herdecke  
+
+### Abstract
+
+*Abstract to be added*
