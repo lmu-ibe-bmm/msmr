@@ -5,17 +5,7 @@ sidebar: false
 about:
   template: trestles
   image: assets/2Glasses_Blue.png
-listing:
-  type: grid
-  id: main-listing
-  fields: [title]
-  grid-columns: 2
-  sort: false  
-  contents: 
-    - ./call/*.qmd
-    - ./programme/*.qmd
-    - ./committee/*.qmd
-    - ./contact/*.qmd
+
 toc: false
 page-layout: full
 ---
@@ -32,11 +22,10 @@ page-layout: full
 
 You can register for both days or for one single day. Registrations will be accepted on a first come, first served basis until **5 January 2026**. Registration is free of charge. 
 
-**Update:** The [preliminary programme](https://crsuzh.pages.uzh.ch/ror-event-2026/programme/) has been released. 
-
 Join us to share your work, to exchange ideas, and to shape future Research on Research collaborations in Switzerland!
 
-::: {#main-listing}
-:::
-
 Hosted by the [Center for Reproducible Science and Research Synthesis (CRS)](https://www.crs.uzh.ch/en.html)
+
+---
+
+{{< include programme/index.qmd >}}

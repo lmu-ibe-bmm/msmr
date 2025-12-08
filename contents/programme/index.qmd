@@ -1,9 +1,11 @@
 ---
-title: "Programme"
-subtitle: "Research on Research Event 2026"
+title: "Research on Research Event"
+
 ---
 
-## Day 1: 29 January 2026
+### Preliminary Programme 
+
+#### Day 1: 29 January 2026
 
 **Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-F-101
 
@@ -88,7 +90,7 @@ Leonhard Held, University of Zurich
 
 ---
 
-## Day 2: 30 January 2026
+#### Day 2: 30 January 2026
 
 **Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL G-217
 
@@ -97,7 +99,6 @@ The programme on the second day will consist of input talks, and group work with
 ::: {.callout-note}
 The programme for Day 2 is preliminary and is subject to change.
 :::
-
 
 **08:30 – 09:00 | Arrival**
 
