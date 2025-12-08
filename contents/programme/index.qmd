@@ -32,14 +32,14 @@ Leonhard Held, University of Zurich
 
 **10:20 – 10:50 | Coffee Break**
 
-**10:50 – 11:05 | Poster Flash Talks**
+**10:50 – 11:10 | Poster Flash Talks**
 
-**11:05 – 12:00 | Keynote**
+**11:10 – 12:05 | Keynote**
 : *to be announced*
 
 *Invited discussion*
 
-**12:00 – 12:30 | Empirical research on research (continued)**
+**12:05 – 12:35 | Empirical research on research (continued)**
 
 *Assessing Gender Awareness in Research Evaluation: A Text Analysis Approach*
 : Gabriel Okasa, Swiss National Science Foundation
@@ -47,7 +47,7 @@ Leonhard Held, University of Zurich
 *From Wearable Biometrics to Reproducible AI: Generalizing Evaluation Guidelines for Human-Centered Research*
 : Lidia Alecci, Università della Svizzera italiana
 
-**12:30 – 13:30 | Lunch break**
+**12:35 – 13:30 | Lunch break**
 
 **13:30 – 14:15 | Poster Session**
 
