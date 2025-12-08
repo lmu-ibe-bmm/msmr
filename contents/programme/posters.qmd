@@ -1,0 +1,43 @@
+---
+title: "Poster Session"
+subtitle: "29 January 2026 13:30 – 14:15"
+---
+
+*Supporting Patient and Public Involvement in Research through clinical trial unITs: SPIRIT Part 1 study results*
+: Maelle Achard
+
+*Challenges of Introducing Institutional Incentives for Open Scholarship: The Example of Indoor Localization Research*
+: Grigorios Anagnostopoulos
+
+*Epistemic diversity and inequalities in Swiss science. An analysis of gendered knowledge, disciplinary mobility, and social closure in SNSF-funded research*
+: Pierre Benz
+
+*The Uptake of Open Science Practices in PhD Theses*
+: Hilmar Brohmer
+
+*Assessing the potential of AI to accelerate evidence synthesis: a mixed-methods participatory approach*
+: Diana Buitrago-Garcia
+
+*The STandards for the development of REseArch Methods guidance (STREAM) initiative*
+: Malena Chiaborelli
+
+*Introducing RegCheck — an LLM tool that compares preregistrations to manuscripts*
+: Beth Clarke
+
+*DREAMR: a web-based tool to assess the representation of articles included in meta-research*
+: Peter Degen
+
+*Monitoring open access publications at the SNSF: the challenges of open academic data*
+: Simon Gorin
+
+*Learning by Doing Open Science: Teaching Reproducible Research Practices*
+: Sandra Grinschgl
+
+*Towards Open Bibliometric Indicators: insights, challenges, lessons learned*
+: Teresa Kubacka
+
+*On the current and future uses of Quantitative Scientometric Indicators (QSI) in Swiss Higher Education Institutions: Results from the NAIF project*
+: Moritz Mähr
+
+*Reporting Guidelines for AI in Health Research: What is New and Is It Enough for Reproducibility?*
+: Zayne Roa-Díaz

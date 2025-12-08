@@ -47,7 +47,7 @@ Leonhard Held, University of Zurich
 
 **12:35 – 13:30 | Lunch break**
 
-**13:30 – 14:15 | Poster Session**
+**13:30 – 14:15 | [Poster Session](posters.qmd)**
 
 **14:15 – 15:15 | Research synthesis**
 
@@ -108,7 +108,7 @@ The programme for Day 2 is preliminary and is subject to change.
 
 **Funding opportunities** 
 
-**Input talks by:**
+**Input talks by:**  
 
 : Jamie Cummins, University of Bern
 
