@@ -3,8 +3,6 @@ title: "Programme"
 subtitle: "Research on Research Event 2026"
 ---
 
-
-
 ## Day 1: 29 January 2026
 
 **Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-F-101
