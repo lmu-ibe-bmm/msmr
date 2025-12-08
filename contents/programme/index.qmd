@@ -3,13 +3,11 @@ title: "Programme"
 subtitle: "Research on Research Event 2026"
 ---
 
-::: {.callout-note}
-This is a preliminary version of the programme and is subject to change.
-:::
+
 
 ## Day 1: 29 January 2026
 
-**Location:** Room KOL F-101 (Main Building UZH)
+**Location:** [University of Zurich Main Building](https://www.uniability.uzh.ch/static/current/buildings/KOL/), Room KOL-F-101
 
 **08:30 – 09:00 | Arrival**
 
@@ -94,7 +92,14 @@ Leonhard Held, University of Zurich
 
 ## Day 2: 30 January 2026
 
-**Location:** Plenum: Room KOL G-217 (Main Building UZH)
+**Location:** [University of Zurich Main Building](https://www.uniability.uzh.ch/static/current/buildings/KOL/), Room KOL G-217
+
+The programme on the second day will consist of group work with the goal to lay the groundwork for a large collaborative grant proposal.
+
+::: {.callout-note}
+The programme for Day 2 is preliminary and is subject to change.
+:::
+
 
 **08:30 – 09:00 | Arrival**
 
@@ -108,8 +113,6 @@ Leonhard Held, University of Zurich
 **Input talks by:**
 
 : Jamie Cummins, University of Bern
-
-: Ian Hussey, University of Bern
 
 : Carolin Strobl, University of Zurich
 
