@@ -9,86 +9,23 @@ title: "Research on Research Event"
 
 **Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-F-101
 
-**08:30 – 09:00 | Arrival**
-
-**09:00 – 09:20 | Opening speech and introduction**
-
-- Elisabeth Stark, University of Zurich
-- Leonhard Held, University of Zurich
-
-**09:20 – 10:20 | Empirical research on research**
-
-- [*Learning Research System for Swiss Clinical Trials*](/programme/talks/briel.qmd)
-  Matthias Briel, University of Basel
-
-- [*Stumble over a Blunder: Editorial Policy and Research Reporting*](/programme/talks/zigova.qmd)
-  Katarina Zigova, University of Zurich
-
-- [*(Un)informed Consent: To What Degree are Research Participants 'Informed' by Common Consent Procedures in Psychology under EU Data Protection Law?*](/programme/talks/jansen.qmd)
-  Luisa Jansen, University of Bern
-
-- [*Improving interpretation and communication of clinical trial results via probabilistic statements*](/programme/talks/efthimiou.qmd)
-  Orestis Efthimiou, University of Bern
-
-**10:20 – 10:50 | Coffee Break**
-
-**10:50 – 11:10 | Poster Flash Talks**
-
-**11:10 – 12:05 | Keynote**
-
-- *To be announced*
-
-- *Invited discussion*
-
-**12:05 – 12:35 | Empirical research on research (continued)**
-
-- [*Assessing Gender Awareness in Research Evaluation: A Text Analysis Approach*](/programme/talks/okasa.qmd)
-  Gabriel Okasa, Swiss National Science Foundation
-
-- [*From Wearable Biometrics to Reproducible AI: Generalizing Evaluation Guidelines for Human-Centered Research*](/programme/talks/alecci.qmd)
-  Lidia Alecci, Università della Svizzera italiana
-
-**12:35 – 13:30 | Lunch break**
-
-**13:30 – 14:15 | [Poster Session](/programme/posters.qmd)**
-
-**14:15 – 15:15 | Research synthesis**
-
-- [*Large language model-based extraction and analysis of public assessment reports from six major drug regulators*](/programme/talks/ineichen.qmd)
-  Jacqueline Dort; Hanna Hubarava; Benjamin Ineichen, University of Bern
-
-- [*Living systematic reviews of human and animal studies for research prioritisation in mental health: a transparent and reproducible evidence synthesis framework*](/programme/talks/chiocchia.qmd)
-  Virginia Chiocchia, University of Bern
-
-**15:15 – 16:10 | Keynote**
-
-- [*The Reproducibility Crisis in Biomedical Research*](/programme/talks/szabo.qmd)
-  Csaba Szabo, University of Fribourg
-
-- *Invited discussion*
-  Hanno Würbel, University of Bern
-
-**16:10 – 16:40 | Coffee Break**
-
-**16:40 – 17:40 | Replication and forensic meta-science**
-
-- [*A retrospective analysis of 400 publications reveals patterns of irreproducibility across an entire life sciences research field*](/programme/talks/lemaitre.qmd)
-  Bruno Lemaitre, EPFL
-
-- [*An overview of tools for detecting irregularities in reported summary statistics*](/programme/talks/jung.qmd)
-  Lukas Jung, University of Bern
-
-- [*Operationalizing Metascience: An AI Tool to Detect Hidden Methodological Flaws at Scale*](/programme/talks/hilpert.qmd)
-  Peter Hilpert, University of Lausanne
-
-- [*ERЯOR: A Bug Bounty Program for Science*](/programme/talks/elson.qmd)
-  Malte Elson, University of Bern
-
-**17:40 – 18:00 | Conclusion of Day 1 & Preview of Day 2**
-
-- Matthias Egger, University of Zurich
-
-**18:00 – | Apéro**  
+| Time | Talk / Session |
+|------|----------------|
+| 08:30 – 09:00 | **Arrival** |
+| 09:00 – 09:20 | **Opening speech and introduction**<br>- Elisabeth Stark, University of Zurich<br>- Leonhard Held, University of Zurich |
+| 09:20 – 10:20 | **Empirical research on research**<br>- [*Learning Research System for Swiss Clinical Trials*](/programme/talks/briel.qmd), Matthias Briel, University of Basel<br>- [*Stumble over a Blunder: Editorial Policy and Research Reporting*](/programme/talks/zigova.qmd), Katarina Zigova, University of Zurich<br>- [*(Un)informed Consent: To What Degree are Research Participants 'Informed' by Common Consent Procedures in Psychology under EU Data Protection Law?*](/programme/talks/jansen.qmd), Luisa Jansen, University of Bern<br>- [*Improving interpretation and communication of clinical trial results via probabilistic statements*](/programme/talks/efthimiou.qmd), Orestis Efthimiou, University of Bern |
+| 10:20 – 10:50 | **Coffee Break** |
+| 10:50 – 11:10 | **Poster Flash Talks** |
+| 11:10 – 12:05 | **Keynote**<br>- *To be announced*<br>- *Invited discussion* |
+| 12:05 – 12:35 | **Empirical research on research (continued)**<br>- [*Assessing Gender Awareness in Research Evaluation: A Text Analysis Approach*](/programme/talks/okasa.qmd), Gabriel Okasa, Swiss National Science Foundation<br>- [*From Wearable Biometrics to Reproducible AI: Generalizing Evaluation Guidelines for Human-Centered Research*](/programme/talks/alecci.qmd), Lidia Alecci, Università della Svizzera italiana |
+| 12:35 – 13:30 | **Lunch break** |
+| 13:30 – 14:15 | **[Poster Session](/programme/posters.qmd)** |
+| 14:15 – 15:15 | **Research synthesis**<br>- [*Large language model-based extraction and analysis of public assessment reports from six major drug regulators*](/programme/talks/ineichen.qmd), Jacqueline Dort; Hanna Hubarava; Benjamin Ineichen, University of Bern<br>- [*Living systematic reviews of human and animal studies for research prioritisation in mental health: a transparent and reproducible evidence synthesis framework*](/programme/talks/chiocchia.qmd), Virginia Chiocchia, University of Bern |
+| 15:15 – 16:10 | **Keynote**<br>- [*The Reproducibility Crisis in Biomedical Research*](/programme/talks/szabo.qmd), Csaba Szabo, University of Fribourg<br>- *Invited discussion*, Hanno Würbel, University of Bern |
+| 16:10 – 16:40 | **Coffee Break** |
+| 16:40 – 17:40 | **Replication and forensic meta-science**<br>- [*A retrospective analysis of 400 publications reveals patterns of irreproducibility across an entire life sciences research field*](/programme/talks/lemaitre.qmd), Bruno Lemaitre, EPFL<br>- [*An overview of tools for detecting irregularities in reported summary statistics*](/programme/talks/jung.qmd), Lukas Jung, University of Bern<br>- [*Operationalizing Metascience: An AI Tool to Detect Hidden Methodological Flaws at Scale*](/programme/talks/hilpert.qmd), Peter Hilpert, University of Lausanne<br>- [*ERЯOR: A Bug Bounty Program for Science*](/programme/talks/elson.qmd), Malte Elson, University of Bern |
+| 17:40 – 18:00 | **Conclusion of Day 1 & Preview of Day 2**<br>Matthias Egger, University of Zurich |
+| 18:00 – | **Apéro** |  
 
 ---
 
@@ -102,26 +39,14 @@ The programme on the second day will consist of input talks, and group work with
 The programme for Day 2 is preliminary and is subject to change.
 :::
 
-**08:30 – 09:00 | Arrival**
-
-**09:00 | Invited talk**
-
-- *to be announced*
-  Jack Leahy, UKRI Metascience Unit
-
-**Funding opportunities** 
-
-**Input talks by:**
-
-- Jamie Cummins, University of Bern
-
-- Carolin Strobl, University of Zurich
-
-- *and others*
-
-**Group work**
-
-**16:00 | End**
+| Time | Talk / Session |
+|------|----------------|
+| 08:30 – 09:00 | **Arrival** |
+| 09:00 | **Invited talk**<br>- *to be announced*, Jack Leahy, UKRI Metascience Unit |
+| | **Funding opportunities** |
+| | **Input talks by:**<br>- Jamie Cummins, University of Bern<br>- Carolin Strobl, University of Zurich<br>- *and others* |
+| | **Group work** |
+| 16:00 | **End** |
 
 ---
 
