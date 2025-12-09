@@ -4,7 +4,7 @@ subtitle: "29 January 2026 13:30 – 14:15"
 ---
 
 *Supporting Patient and Public Involvement in Research through clinical trial unITs: SPIRIT Part 1 study results*
-: Maelle Achard
+: Maëlle Achard
 
 *Challenges of Introducing Institutional Incentives for Open Scholarship: The Example of Indoor Localization Research*
 : Grigorios Anagnostopoulos
