@@ -45,6 +45,7 @@ format:
         css: assets/custom-theme.scss
         code-link: true
         toc: true
+        toc-depth: 4
         toc-expand: 4
         code-copy: true
 
