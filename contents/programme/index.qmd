@@ -25,7 +25,7 @@ title: "Research on Research Event"
 | 15:55 – 16:25 | **Coffee Break** |
 | 16:25 – 17:10 | **Replication and Forensic Meta-Science**<br>- [*Operationalizing Metascience: An AI Tool to Detect Hidden Methodological Flaws at Scale*](/programme/talks/hilpert.qmd),<br> Peter Hilpert, University of Lausanne<br>- [*An Overview of Tools for Detecting Irregularities in Reported Summary Statistics*](/programme/talks/jung.qmd),<br> Lukas Jung, University of Bern<br>- [*A Retrospective Analysis of 400 Publications Reveals Patterns of Irreproducibility Across an Entire Life Sciences Research Field*](/programme/talks/lemaitre.qmd),<br> Bruno Lemaitre, EPFL |
 | 17:10 – 17:30 | **Conclusion of Day 1 & Preview of Day 2**<br>Matthias Egger, University of Zurich |
-| 17:30 – | **Apéro** |  
+| 17:30 | **End** |  
 
 ---
 
