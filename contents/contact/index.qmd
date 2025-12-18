@@ -6,11 +6,17 @@ If you have any questions, do not hesitate to contact the local organisers at [c
 
 ::: {layout-ncol=3}
 
+![Peter Degen](../assets/peter_degen.jpg){height=180px}
+
+![Gorka Fraga Gonzalez](../assets/gorka_fg.jpg){height=180px}
+
 ![Schirin Ghazivakili](../assets/schirin_ghazivakili.jpg){height=180px}
 
 ![Rachel Heyard](../assets/heyard_rachel.jpg){height=180px}
 
 ![Fabio Molo](../assets/fabio_molo.jpg){height=180px}
+
+*And the entire [CRS team](https://www.crs.uzh.ch/en/about-us/People/team.html).*
 
 
 
