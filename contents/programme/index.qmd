@@ -31,22 +31,26 @@ title: "Research on Research Event"
 
 #### Day 2: 30 January 2026
 
-**Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL G-217
+**Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-G-217
 
-The programme on the second day will consist of input talks, and group work with the goal to lay the basis for a large collaborative grant proposal.
-
-::: {.callout-note}
-The programme for Day 2 is preliminary and is subject to change.
-:::
+**Workshop rooms:** KOL-G-212 and KOL-G-2016
 
 | Time | Talk / Session |
 |------|----------------|
 | 08:30 – 09:00 | **Arrival** |
-| 09:00 | **Invited Talk**<br>- *Radical Solutions: Insights from the UK Metascience Unit*,<br> Jack Leahy, UK Metascience Unit |
-| | **Funding Opportunities** |
-| | **Input Talks By:**<br>- Jamie Cummins, University of Bern<br>- Carolin Strobl, University of Zurich<br>- Gian Luca Di Tanna, University of Applied Sciences and Arts of Southern Switzerland (SUPSI)<br>- Stefan Schandelmaier, University of Basel<br>- Ian Hussey, University of Bern<br>- Erin West, HOCH Health Ostschweiz |
-| | **Group Work** |
-| 16:00 | **End** |
+| 09:00 – 09:10 | **Introduction**<br>Fabio Molo, University of Zurich |
+| 09:10 – 10:00 | **Input Talks**<br>- Jamie Cummins, University of Bern<br>- Gianluca Di Tanna, University of Applied Sciences and Arts of Southern Switzerland<br>- Carolin Strobl, University of Zurich<br>- Stefan Schandelmaier, University of Basel<br>- Ian Hussey, University of Bern<br>- Erin West, HOCH Health Ostschweiz |
+| 10:00 – 10:30 | **Workshop**<br>Strategic RoR priorities and project ideas<br>Funding Opportunities |
+| 10:30 – 11:00 | **Coffee Break** |
+| 11:00 – 11:45 | **Invited Talk**<br>*Radical Solutions: Insights from the UK Metascience Unit*<br>Jack Leahy, UK Metascience Unit |
+| 11:45 – 12:30 | **Invited Talk**<br>*Mechanisms of the Swiss National Research Programmes*<br>To Be Confirmed |
+| 12:30 – 13:30 | **Lunch Break** |
+| 13:30 – 15:00 | **Workshop**<br>Introduction and Group Formation<br>Group Work |
+| 15:00 – 15:15 | **Coffee Break** |
+| 15:15 – 16:00 | **Workshop**<br>Group Work Summaries<br>Discussion |
+| 16:00 – 16:10 | **Announcement**<br>*CRS Seed Grants — Call For Applications*<br>Fabio Molo, University of Zurich |
+| 16:10 – 16:20 | **Conclusion**<br>*Summary, Wrap-up and Next Steps*<br>Leonhard Held, University of Zurich |
+| 16:20 | **End** |
 
 ---
 
