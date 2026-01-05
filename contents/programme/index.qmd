@@ -44,7 +44,7 @@ The programme for Day 2 is preliminary and is subject to change.
 | 08:30 – 09:00 | **Arrival** |
 | 09:00 | **Invited Talk**<br>- *Radical Solutions: Insights from the UK Metascience Unit*,<br> Jack Leahy, UK Metascience Unit |
 | | **Funding Opportunities** |
-| | **Input Talks By:**<br>- Jamie Cummins, University of Bern<br>- Carolin Strobl, University of Zurich<br>- Gian Luca Di Tanna, University of Applied Sciences and Arts of Southern Switzerland (SUPSI)<br>- Stefan Schandelmaier, University of Basel<br>- Ian Hussey, University of Bern<br>- Erin West, HOCH Health Ostschweiz<br>- *And Others* |
+| | **Input Talks By:**<br>- Jamie Cummins, University of Bern<br>- Carolin Strobl, University of Zurich<br>- Gian Luca Di Tanna, University of Applied Sciences and Arts of Southern Switzerland (SUPSI)<br>- Stefan Schandelmaier, University of Basel<br>- Ian Hussey, University of Bern<br>- Erin West, HOCH Health Ostschweiz |
 | | **Group Work** |
 | 16:00 | **End** |
 
