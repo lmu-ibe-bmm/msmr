@@ -21,7 +21,7 @@ page-layout: full
 
 [Register](https://forms.office.com/e/kRp1pxgrX6){.btn .btn-primary}  
 
-You can register for both days or for one single day. Registrations will be accepted on a first come, first served basis until **5 January 2026**. Registration is free of charge. 
+You can register for both days or for one single day. Registrations will be accepted on a first come, first served basis until ~~5 January~~ **12 January 2026**. Registration is free of charge. 
 
 Join us to share your work, to exchange ideas, and to shape future Research on Research collaborations in Switzerland!
 
