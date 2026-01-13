@@ -39,11 +39,11 @@ title: "Research on Research Event"
 |------|----------------|
 | 08:45 – 09:15 | **Arrival** |
 | 09:15 – 09:20 | **Introduction**<br>Fabio Molo, University of Zurich |
-| 09:20 – 10:05 | *Radical Solutions: Insights from the UK Metascience Unit*<br>Jack Leahy, UK Metascience Unit |
+| 09:20 – 10:05 | **Invited Talk**<br> *Radical Solutions: Insights from the UK Metascience Unit*<br>Jack Leahy, UK Metascience Unit |
 | 10:05 – 10:50 | **Input Talks**<br>- Jamie Cummins, University of Bern<br>- Gianluca Di Tanna, University of Applied Sciences and Arts of Southern Switzerland<br>- Carolin Strobl, University of Zurich<br>- Stefan Schandelmaier, University of Basel<br>- Ian Hussey, University of Bern<br>- Erin West, HOCH Health Ostschweiz |
 | 10:50 – 11:20 | **Coffee Break** |
 | 11:20 – 12:00 | **Workshop**<br>Strategic RoR Priorities and Project Ideas<br>Funding Opportunities |
-| 12:00 – 12:30 | *Introduction to the Swiss National Research Programmes*<br>Boris Buzek, Swiss National Science Foundation |
+| 12:00 – 12:30 | **Invited Talk**<br> *Introduction to the Swiss National Research Programmes*<br>Boris Buzek, Swiss National Science Foundation |
 | 12:30 – 13:30 | **Lunch Break** |
 | 13:30 – 15:15 | **Group Work** |
 | 15:15 – 15:30 | **Coffee Break** |
