@@ -33,7 +33,7 @@ title: "Research on Research Event"
 
 **Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-G-217
 
-**Workshop rooms:** KOL-G-212 and KOL-G-216
+**Workshop rooms:** KOL-G-212, KOL-G-216, KOL-G-210
 
 | Time | Talk / Session |
 |------|----------------|
