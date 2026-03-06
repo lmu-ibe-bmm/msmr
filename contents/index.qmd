@@ -4,7 +4,7 @@ subtitle: Researching how methods are developed and evaluated that are sound, an
 sidebar: false
 about:
   template: trestles
-  image: assets/msmr.jpg
+  image: assets/msmr.png
   id: hero-heading
 toc: false
 page-layout: full
