@@ -1,5 +1,5 @@
 ---
-title: "Contact the organizers"
+title: "Contact the Organizers"
 ---
 
 If you have any questions, do not hesitate to contact the local organizers at [TODO.ADD.Mail@uzh.ch](mailto:TODO.ADD.Mail@uzh.ch).
@@ -13,4 +13,4 @@ If you have any questions, do not hesitate to contact the local organizers at [T
 ![Mark Robinson](../assets/mark_robinson.jpg){height=200px fig-align="left"}
 
 :::
- 
+

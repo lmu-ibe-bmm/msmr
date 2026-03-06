@@ -43,10 +43,6 @@ format:
           light: [flatly, assets/custom-theme.scss]
           dark: [darkly, assets/custom-theme.scss]
         css: assets/custom-theme.scss
-        code-link: true
         toc: true
         toc-depth: 4
         toc-expand: 4
-        code-copy: true
-        google-fonts:
-          - Source Sans Pro

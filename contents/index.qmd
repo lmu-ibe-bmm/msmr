@@ -1,6 +1,6 @@
 ---
 title: 1st Interdisciplinary Symposium on Meta Science for Methods Research
-subtitle: Researching how methods are developed and evaluated that are sound, and to ensure that the process by which methods are evaluated is equally sound.
+subtitle: Understanding and improving how methods are developed and evaluated
 sidebar: false
 about:
   template: trestles
@@ -24,6 +24,7 @@ Join us to share your work, to exchange ideas, and to shape the future of meta s
 <!-- Hosted by the [Center for Reproducible Science and Research Synthesis (CRS)](https://www.crs.uzh.ch/en.html) -->
 :::
 
----
+<!-- --- -->
 
 <!-- {{< include program/index.qmd >}} -->
+

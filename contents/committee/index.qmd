@@ -1,5 +1,5 @@
 ---
-title: Scientific committee
+title: Scientific Committee
 ---
 
 The scientific committee is responsible for the evaluation and selection of the submitted contributions.
