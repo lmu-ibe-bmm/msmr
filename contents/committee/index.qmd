@@ -2,19 +2,17 @@
 title: Scientific committee
 ---
 
-The scientific committee is responsible for the evaluation and selection of the submitted contributions for the first day of the event, and establishes the programme of the second event day, i.e. workshops towards collaborative research on research grant proposals.
+The scientific committee is responsible for the evaluation and selection of the submitted contributions.
 
 ::: {layout-ncol=3}
 
-![Matthias Egger](../assets/matthias_egger.jpg){width=120px}
+![Carolin Strobl](../assets/carolin_strobl.jpeg){height=200px fig-align="left"}
 
-![Leonhard Held](../assets/leonhard_held.jpg){width=120px}
+![Samuel Pawel](../assets/samuel_pawel.jpg){height=200px fig-align="left"}
 
-![Rachel Heyard](../assets/heyard_rachel.jpg){width=120px}
+![Mark Robinson](../assets/mark_robinson.jpg){height=200px fig-align="left"}
 
-![Fabio Molo](../assets/fabio_molo.jpg){width=120px}
-
-![Anne Scheel](../assets/anne_scheel.jpg){width=120px}
+TODO add more people?
 
 :::
 

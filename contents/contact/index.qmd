@@ -1,22 +1,16 @@
 ---
-title: "Contact the organisers"
+title: "Contact the organizers"
 ---
 
-If you have any questions, do not hesitate to contact the local organisers at [crs@ebpi.uzh.ch](mailto:crs@ebpi.uzh.ch).
+If you have any questions, do not hesitate to contact the local organizers at [TODO.ADD.Mail@uzh.ch](mailto:TODO.ADD.Mail@uzh.ch).
 
 ::: {layout-ncol=3}
 
-![Peter Degen](../assets/peter_degen.jpg){height=180px}
+![Carolin Strobl](../assets/carolin_strobl.jpeg){height=200px fig-align="left"}
 
-![Gorka Fraga Gonzalez](../assets/gorka_fg.jpg){height=180px}
+![Samuel Pawel](../assets/samuel_pawel.jpg){height=200px fig-align="left"}
 
-![Schirin Ghazivakili](../assets/schirin_ghazivakili.jpg){height=180px}
+![Mark Robinson](../assets/mark_robinson.jpg){height=200px fig-align="left"}
 
-![Rachel Heyard](../assets/heyard_rachel.jpg){height=180px}
-
-![Fabio Molo](../assets/fabio_molo.jpg){height=180px}
-
-*... and the entire [CRS team](https://www.crs.uzh.ch/en/about-us/People/team.html).*
-
-
-
+:::
+ 

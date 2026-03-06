@@ -1,9 +1,0 @@
----
-title: "The Reproducibility Crisis in Biomedical Research"
----
-
-**Speaker:** [Csaba Szabo](https://www.unifr.ch/med/en/research/group/szabo/), University of Fribourg
-
-### Abstract
-
-This presentation will provide state-of-the-art insights into the scope and nature of the reproducibility crisis in scientific literature. Approximately 80% of published biomedical findings are difficult or impossible to replicate, with contributing factors ranging from methodological complexity and minor procedural variations to unintentional oversights and deliberate fraud. Alarmingly, deliberate and blatant fraud has been increasing in recent years, now further exacerbated by the misuse of artificial intelligence. Drawing on interviews, case studies, surveys, and a wide range of published evidence, the presentation will highlight hypercompetition, publication pressures, and inadequate training in research design as major drivers of the crisis. Incremental or cosmetic reforms have proven ineffective; instead, radical changes are required. These include overhauling traditional funding models and creating a dedicated career track focused specifically on reproducibility and research integrity. Further proposals include encouraging (or requiring) replication experiments prior to publication in leading journals, implementing enhanced transparency measures, mandating scientific integrity training, and imposing stronger penalties for misconduct. Such measures would reduce wasted resources, safeguard the reliability of scientific output, and ultimately restore public trust in biomedical research. By spotlighting both the alarming extent of the crisis and offering bold, pragmatic solutions, this presentation aims to spark a lively discussion about how science is conducted, evaluated, and communicated.

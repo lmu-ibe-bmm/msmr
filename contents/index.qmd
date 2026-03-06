@@ -1,32 +1,29 @@
 ---
-title: Research on Research Event 2026
-subtitle: For a vibrant Swiss Research on Research community
+title: 1st Interdisciplinary Symposium on Meta Science for Methods Research
+subtitle: Researching how methods are developed and evaluated that are sound, and to ensure that the process by which methods are evaluated is equally sound.
 sidebar: false
 about:
   template: trestles
-  image: assets/2Glasses_Blue.png
+  image: assets/msmr.jpg
   id: hero-heading
 toc: false
 page-layout: full
 ---
 
 :::{#hero-heading}
-**Date:**
+**Date:** 31 August and 1 September, 2026
 
-- 29 January, 2026: contributions from the Swiss Research on Research community   
+**Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-G-217, Rämistrasse 71, 8001 Zürich, Switzerland
 
-- 30 January, 2026: input talks and group work towards a large collaborative grant proposal  
+[Register](https://TODO.ADD.REGISTRATION.LINK){.btn .btn-primary}
 
-**Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Rämistrasse 71, 8001 Zürich
+Registrations will be accepted on a first come, first served basis until  **XXXX 2026**. Registration is free of charge. 
 
-[Register](https://forms.office.com/e/kRp1pxgrX6){.btn .btn-primary}  
+Join us to share your work, to exchange ideas, and to shape the future of meta science on methods research! 
 
-You can register for both days or for one single day. Registrations will be accepted on a first come, first served basis until ~~5 January~~ **12 January 2026**. Registration is free of charge. 
-
-Join us to share your work, to exchange ideas, and to shape future Research on Research collaborations in Switzerland!
-
-Hosted by the [Center for Reproducible Science and Research Synthesis (CRS)](https://www.crs.uzh.ch/en.html)
+<!-- Hosted by the [Center for Reproducible Science and Research Synthesis (CRS)](https://www.crs.uzh.ch/en.html) -->
 :::
+
 ---
 
-{{< include programme/index.qmd >}}
+<!-- {{< include program/index.qmd >}} -->
