@@ -3,33 +3,28 @@ title: "Call for Contributions"
 ---
 
 
-Across many scientific disciplines, meta-scientific research has driven substantial reform in the last decade — studies of replication failure, publication bias, and questionable research practices prompted replication initiatives, preregistration, and open data policies that have reshaped how empirical research is conducted and evaluated. Yet methodological research disciplines — disciplines that develop and evaluate the methods underlying empirical research (e.g., statistics, psychometrics, bioinformatics, methods in ecology, econometrics, or machine learning) — have received little  meta-scientific attention, and have yet to embrace similar reforms.
+Across many scientific disciplines, observed reproducibility issues have led to increased meta-scientific research and the adoption of open science policies, reshaping how empirical research is conducted and evaluated. Methodological research disciplines — disciplines that develop and evaluate the methods underlying empirical research (such as (bio)statistics, psychometrics, econometrics, bioinformatics, machine learning, and quantitative methods for ecology, linguistics, etc.) — have so far received little meta-scientific attention, and have yet to embrace similar reforms. Yet, there is also evidence of reproducibility issues such as selective reporting, manipulation of simulation parameters, unequal treatment due to asymmetric familiarity with compared methods, improper handling of method failures in methodological research. 
 
+But things are beginning to change. Across a number of methodological disciplines, researchers have started to investigate how methods are developed, evaluated and published in their own fields, what problems occur in this process and how it could be improved. At the moment, these efforts remain largely isolated within specific disciplines, with little cross-disciplinary exchange and no shared vocabulary for thinking and talking about scientific rigor in methods research in general. The **1st Interdisciplinary Symposium on Meta Science for Methods Research** aims to bridge this gap by bringing different methodological communities together for the first time to share insights and experiences, build a common ground, and collectively advance meta science for methods research.
 
-This is beginning to change. Across a number of methodological disciplines, researchers have started to investigate how methods are developed and evaluated in their own fields, and how this process could be improved. Yet these efforts remain largely isolated — with little cross-disciplinary exchange and no shared vocabulary for thinking about rigor in methods research. The **1st Interdisciplinary Symposium on Meta Science for Methods Research** aims to change this, by bringing these communities together for the first time to share insights, build common ground, and collectively advance meta science for methods research.
+The event will focus not on the methodological innovations themselves, like our typical conferences, but rather how we as a scientific community organize ourselves to digest the explosion of "novel" quantitative and computational methods, what measures we can take ourselves in our roles as scientists, supervisors and reviewers to make methods research more trustworthy, but also what needs to change in institutions or the publication system to shift incentives away from problematic practices.
 
-We invite contributions that advance our understanding of methods research as a scientific object in its own right — how methods are developed, evaluated, and how this process can be improved. Topics of interest include, but are not limited to:
+Topics of interest include, but are not limited to:
 
 - Meta-scientific studies of methods research. For example, empirical investigations into reporting practices of simulation or benchmarking studies.
 
-- Tools for improving methods research. For example, tools to run standardized benchmarks of computational methods.
+- Tools for improving methods research. For example, tools to run standardized benchmarks of quantitative and computational methods.
 
-- Perspectives on improving rigor in methods research. For example, evaluations of whether preregistration of simulation or benchmarking studies is or is not worthwile.
+- Perspectives on improving rigor in methods research. For example, evaluations of whether preregistrations of simulation or benchmarking studies are worthwhile.
 
-- TODO: add more topics?
+- Perspectives on building sub-communities. For example, how to achieve fair assessment of tools via community consensus (e.g., challenges).
 
-Contributions can take the form of a poster or a 20-minute presentation (including  discussion). The scientific committee will evaluate all submissions and inform about acceptance within four weeks after the deadline. 
+- Suggestions for new publication formats, adaptations of review processes, career incentives for methods researchers.
+
+Given the novel character of this conference, it is very hard to predict how many submissions we will receive. Please be open to presenting your contribution either as an oral presentation with a (potentially short) to-be-defined length or a poster presentation. All submissions will be evaluated and the authors will be informed about acceptance and presentation format within a reasonable time frame. 
 
 
-<!-- A vibrant Swiss RoR community is vital for advancing this field, securing its financial sustainability, and enhancing the Swiss research landscape. Join us to share your work, exchange ideas, and shape future RoR collaborations in Switzerland. -->
-
-<!-- ### Contribution submission and registration -->
-
-<!-- **Abstract submission has ended.** -->
-
-<!-- **Register for the event** -- independently of a submission -- via this form: <https://forms.office.com/e/kRp1pxgrX6>   -->
-<!-- Registration is free of charge. Registrations will be accepted on a first come, first served basis until **5 January 2026**. -->
-
-<!-- Do not hesitate to contact the organizing committee for pre-submission enquiries at: [crs@ebpi.uzh.ch](mailto:crs@ebpi.uzh.ch)  -->
+<!-- Register for the conference and submit an abstract at: <https://forms.office.com/e/dTPgBdJDwm>. --> 
+Abstract submission will open on April 1st and close on April 30. Do not hesitate to contact the organizing committee for pre-submission enquiries at [msmr@psychologie.uzh.ch](mailto:msmr@psychologie.uzh.ch).
 
 

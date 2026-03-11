@@ -8,7 +8,7 @@ website:
     page-footer:        
         left: |
           Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) \
-          \ by the [Center for Reproducible Science and Research Synthesis](https://www.crs.uzh.ch/en.html)
+          Supported by the [Center for Reproducible Science and Research Synthesis](https://www.crs.uzh.ch/en.html)
         
        
         right: |
@@ -26,12 +26,12 @@ website:
         background: light
         
         right:                  
-          - text: "Call for Contributions"            
+          - text: "Call for Contributions"
             href: ./call/index.qmd
-          - text: "Program"
-            href: ./program/index.qmd
-          - text: "Scientific Committee"
-            href: ./committee/index.qmd
+          # - text: "Program"
+          #   href: ./program/index.qmd
+          # - text: "Scientific Committee"
+          #   href: ./committee/index.qmd
           - text: "Contact"
             href: ./contact/index.qmd
 

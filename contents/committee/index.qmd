@@ -12,7 +12,7 @@ The scientific committee is responsible for the evaluation and selection of the 
 
 ![Mark Robinson](../assets/mark_robinson.jpg){height=200px fig-align="left"}
 
-TODO add more people?
+TODO add more people
 
 :::
 
