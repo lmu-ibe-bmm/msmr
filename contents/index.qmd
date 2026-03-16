@@ -16,19 +16,21 @@ page-layout: full
 
 **Date:** 31 August and 1 September, 2026
 
-**Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-G-217, Rämistrasse 71, 8001 Zürich, Switzerland
+**Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-G-217, Rämistrasse 71, 8006 Zürich, Switzerland
 
 <!-- [Register](https://forms.office.com/e/dTPgBdJDwm){.btn .btn-primary} -->
 
-The aim of this event is to bring together researchers from different fields of methodological research (including, but not limited to (bio)statistics, psychometrics, econometrics, bioinformatics, machine learning, quantitative methods for ecology, linguistics, etc.) who are interested in meta science for methods research, discuss how new quantitative methods are developed, evaluated, and published in our respective fields, and how this process can be improved by sharing our thoughts and experiences across disciplines.
+The aim of this event is to bring together researchers from different fields of methodological research (including, but not limited to (bio)statistics, psychometrics, econometrics, bioinformatics, machine learning, quantitative methods for ecology, linguistics, etc.) who are interested in meta science on methods research, discuss how new quantitative methods are developed, evaluated and published in our respective fields, and how this process can be improved by sharing our thoughts and experiences across disciplines.
 
-<!-- Confirmed keynote speakers include: -->
+Confirmed keynote speakers include:
 
-<!-- - XXX -->
+- Anne-Laure Boulesteix, Ludwig-Maximilians-Universität, Munich, Germany (Biostatistics)
 
-Registration and abstract submission will open on April 1st. Abstract submission will be open until April 30. Registrations will be accepted on a first-come, first-served basis until August 1st. Attendance is free of charge. We are planning to live-stream the event, but presenting will only be possible in-person. Researchers from all methodological research disciplines are welcome.
+<!-- - XXX --> 
 
-Join us to share your work, to exchange ideas, and to shape the future of meta science for methods research!
+Registration and abstract submission will open on April 1st. Abstract submission will be open until April 30th. Registrations will be accepted on a first-come, first-served basis until August 1st. Attendance is free of charge. We are planning to live-stream the event, but presenting will only be possible in-person. Researchers from all methodological research disciplines are welcome.
+
+Join us to share your work, to exchange ideas, and to shape the future of meta science on methods research! 
 
 :::
 

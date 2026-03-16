@@ -2,29 +2,25 @@
 title: "Call for Contributions"
 ---
 
-
-Across many scientific disciplines, observed reproducibility issues have led to increased meta-scientific research and the adoption of open science policies, reshaping how empirical research is conducted and evaluated. Methodological research disciplines — disciplines that develop and evaluate the methods underlying empirical research (such as (bio)statistics, psychometrics, econometrics, bioinformatics, machine learning, and quantitative methods for ecology, linguistics, etc.) — have so far received little meta-scientific attention, and have yet to embrace similar reforms. Yet, there is also evidence of reproducibility issues such as selective reporting, manipulation of simulation parameters, unequal treatment due to asymmetric familiarity with compared methods, improper handling of method failures in methodological research. 
+Across many scientific disciplines, observed reproducibility issues have led to increased meta-scientific research and the adoption of open science policies, reshaping how empirical research is conducted and evaluated. Methodological research disciplines — disciplines that develop and evaluate the methods underlying empirical research such as (bio)statistics, psychometrics, econometrics, bioinformatics, machine learning, and quantitative methods for ecology, linguistics, etc. — have so far received little meta-scientific attention, and have yet to embrace similar reforms. Yet, there is also evidence of problematic practices and reproducibility issues in methodological research, such as selective or incomplete reporting, selective manipulation of simulation parameters, unequal treatment due to asymmetric familiarity with compared methods, improper handling of method failures, etc.
 
 But things are beginning to change. Across a number of methodological disciplines, researchers have started to investigate how methods are developed, evaluated and published in their own fields, what problems occur in this process and how it could be improved. At the moment, these efforts remain largely isolated within specific disciplines, with little cross-disciplinary exchange and no shared vocabulary for thinking and talking about scientific rigor in methods research in general. The **1st Interdisciplinary Symposium on Meta Science for Methods Research** aims to bridge this gap by bringing different methodological communities together for the first time to share insights and experiences, build a common ground, and collectively advance meta science for methods research.
 
-The event will focus not on the methodological innovations themselves, like our typical conferences, but rather how we as a scientific community organize ourselves to digest the explosion of "novel" quantitative and computational methods, what measures we can take ourselves in our roles as scientists, supervisors and reviewers to make methods research more trustworthy, but also what needs to change in institutions or the publication system to shift incentives away from problematic practices.
+The event will focus not on the methodological innovations themselves, like our typical conferences, but rather how we as a scientific community organize ourselves to digest the explosion of "novel" computational and statistical methods, what measures we can take ourselves in our roles as scientists, supervisors and reviewers to make methods research more trustworthy, but also what needs to change in institutions or the publication system to shift incentives away from problematic practices.
 
-Topics of interest include, but are not limited to:
+Topics of interest include, but are not limited to (and are not mutually exclusive):
 
-- Meta-scientific studies of methods research. For example, empirical investigations into reporting practices of simulation or benchmarking studies.
+- *Conceptual work*: Defining and discussing what concepts such as replicability or generalizability mean for methodological research and how or to what extent recommendations on good scientific practice from other disciplines transfer to methods research 
 
-- Tools for improving methods research. For example, tools to run standardized benchmarks of quantitative and computational methods.
+- *Tools and practices*: Concrete tools or suggestions (for example, software, platforms, templates, checklists) for improving methods research workflows
 
-- Perspectives on improving rigor in methods research. For example, evaluations of whether preregistrations of simulation or benchmarking studies are worthwhile.
+- *Empirical meta scientific work*: Literature reviews on reporting practices, self-report surveys among methods researchers, many-analysts simulation studies, etc., shedding light into how methodological research is currently done, possibly leading to suggestions for improvement
 
-- Perspectives on building sub-communities. For example, how to achieve fair assessment of tools via community consensus (e.g., challenges).
-
-- Suggestions for new publication formats, adaptations of review processes, career incentives for methods researchers.
+- *Policy proposals*: Suggestions how changes, for example, in our supervision, tenure or publication system could shift incentives away from problematic practices
 
 Given the novel character of this conference, it is very hard to predict how many submissions we will receive. Please be open to presenting your contribution either as an oral presentation with a (potentially short) to-be-defined length or a poster presentation. All submissions will be evaluated and the authors will be informed about acceptance and presentation format within a reasonable time frame. 
 
-
 <!-- Register for the conference and submit an abstract at: <https://forms.office.com/e/dTPgBdJDwm>. --> 
-Abstract submission will open on April 1st and close on April 30. Do not hesitate to contact the organizing committee for pre-submission enquiries at [msmr@psychologie.uzh.ch](mailto:msmr@psychologie.uzh.ch).
+Abstract submission will open on April 1st and close on April 30th. Do not hesitate to contact the organizing committee for pre-submission enquiries at [msmr@psychologie.uzh.ch](mailto:msmr@psychologie.uzh.ch).
 
 
