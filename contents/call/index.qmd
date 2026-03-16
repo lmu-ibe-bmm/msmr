@@ -10,13 +10,10 @@ The event will focus not on the methodological innovations themselves, like our 
 
 Topics of interest include, but are not limited to (and are not mutually exclusive):
 
-- *Conceptual work*: Defining and discussing what concepts such as replicability or generalizability mean for methodological research and how or to what extent recommendations on good scientific practice from other disciplines transfer to methods research 
-
-- *Tools and practices*: Concrete tools or suggestions (for example, software, platforms, templates, checklists) for improving methods research workflows
-
-- *Empirical meta scientific work*: Literature reviews on reporting practices, self-report surveys among methods researchers, many-analysts simulation studies, etc., shedding light into how methodological research is currently done, possibly leading to suggestions for improvement
-
-- *Policy proposals*: Suggestions how changes, for example, in our supervision, tenure or publication system could shift incentives away from problematic practices
+- **Conceptual work**: Defining and discussing what concepts such as replicability or generalizability mean for methodological research and how or to what extent recommendations on good scientific practice from other disciplines transfer to methods research 
+- **Tools and practices**: Concrete tools or suggestions (for example, software, platforms, templates, checklists) for improving methods research workflows
+- **Empirical meta scientific work**: Literature reviews on reporting practices, self-report surveys among methods researchers, many-analysts simulation studies, etc., shedding light into how methodological research is currently done, possibly leading to suggestions for improvement
+- **Policy proposals**: Suggestions how changes, for example, in our supervision, tenure or publication system could shift incentives away from problematic practices
 
 Given the novel character of this conference, it is very hard to predict how many submissions we will receive. Please be open to presenting your contribution either as an oral presentation with a (potentially short) to-be-defined length or a poster presentation. All submissions will be evaluated and the authors will be informed about acceptance and presentation format within a reasonable time frame. 
 
