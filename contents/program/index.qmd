@@ -1,33 +1,39 @@
 ---
-title: "Preliminary Program"
+title: "Program"
 ---
 
-### 31 August 2026
+The program will be posted on this page later. 
 
-| Time | Talk / Session |
-|------|----------------|
-| 08:30 – 09:00 | **Arrival** |
-| 09:00 – 10:30 | **TBA** |
-| 10:30 – 11:00 | **Coffee Break** |
-| 11:00 – 12:15 | **TBA** |
-| 12:15 – 13:15 | **Lunch Break** |
-| 13:15 – 16:00 | **TBA** |
-| 16:00 – 16:30 | **Coffee Break** |
-| 16:30 – 17:30 | **TBA** |
-| 17:30 | **End** |
-| 18:30 | **Conference Dinner** |
+The conference will start at 9:00 on Monday August 31st. The conference dinner will be on Monday night (details will follow). 
 
-### 1 September 2026
+<!-- The conference presentations will end at 17:00 on Tuesday September 1st, followed by a networking meeting for those who are interested until 18:30. -->
 
-| Time | Talk / Session |
-|------|----------------|
-| 08:30 – 09:00 | **Arrival** |
-| 09:00 – 10:30 | **TBA** |
-| 10:30 – 11:00 | **Coffee Break** |
-| 11:00 – 12:15 | **TBA** |
-| 12:15 – 13:15 | **Lunch Break** |
-| 13:15 – 16:00 | **TBA** |
-| 16:00 – 16:30 | **Coffee Break** |
-| 16:30 – 17:30 | **TBA** |
-| 17:30 | **End** |
+<!-- ### 31 August 2026 -->
+
+<!-- | Time | Talk / Session | -->
+<!-- |------|----------------| -->
+<!-- | 08:30 – 09:00 | **Arrival** | -->
+<!-- | 09:00 – 10:30 | **Keynote + Session 1** | -->
+<!-- | 10:30 – 11:00 | **Coffee Break** | -->
+<!-- | 11:00 – 12:30 | **Keynote + Session 2** | -->
+<!-- | 12:30 – 13:30 | **Lunch Break** | -->
+<!-- | 13:30 – 15:00 | **Keynote + Session 3** | -->
+<!-- | 15:00 – 15:30 | **Coffee Break** | -->
+<!-- | 15:30 – 17:00 | **Keynote + Poster flash talks** | -->
+<!-- | 17:00 – 18:30 | **Poster session + Apéro** | -->
+<!-- | from 19:00 | **Conference Dinner** | -->
+
+<!-- ### 1 September 2026 -->
+
+<!-- | Time | Talk / Session | -->
+<!-- |------|----------------| -->
+<!-- | 08:30 – 09:00 | **Arrival** | -->
+<!-- | 09:00 – 10:30 | **Keynote + Session 4** | -->
+<!-- | 10:30 – 11:00 | **Coffee Break** | -->
+<!-- | 11:00 – 12:30 | **Keynote + Session 5** | -->
+<!-- | 12:30 – 13:30 | **Lunch Break** | -->
+<!-- | 13:30 – 15:00 | **Keynote + Session 6** | -->
+<!-- | 15:00 – 15:30 | **Coffee Break** | -->
+<!-- | 15:30 – 17:00 | **Conclusion / Open Discussion / Future of MSMR** | -->
+<!-- | 17:00 – 18:30 | **Networking session** | -->
 
