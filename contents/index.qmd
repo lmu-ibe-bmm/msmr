@@ -25,7 +25,7 @@ The aim of this event is to bring together researchers from different fields of 
 Confirmed keynote speakers include:
 
 - Jean Yang, University of Sydney (Biostatistics/Bioinformatics)
-- Anne-Laure Boulesteix, Ludwig-Maximilians-Universität (Biostatistics)
+- Anne-Laure Boulesteix, Ludwig-Maximilians-Universität München (Biostatistics)
 - Tim Morris, Novartis (Biostatistics)
 - Björn Siepe, Philipps-Universität Marburg (Psychological Methods)
 
