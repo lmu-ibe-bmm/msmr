@@ -20,86 +20,86 @@ A network plan for the tram, bus and S-Bahn lines can be found [here](https://ww
 
 Tickets for all means of public transport within the city (including some boats and mountain railways) are available from the vending machines at each stop or the ticket counters located, e.g., at the train stations and the airport. 
 
-### Accommodation
+<!-- ### Accommodation -->
 
-There is no special conference rate but here are some examples for places to stay:
+<!-- There is no special conference rate but here are some examples for places to stay: -->
 
-- [25 Hours Hotel Langstrasse](https://www.25hours-hotels.com/hotels/zuerich/langstrasse)
-- [St. Josef](https://www.st-josef.ch/)
-- [Sorell Hotel Rex](https://sorellhotels.com/de/rex/zuerich)
-- [Hotel Bristol](https://www.hotelbristol.ch/)
-- [Guesthouse Zollhaus](https://guesthouse-zollhaus.ch/)
-- [Hotel Marta](https://www.hotelmarta.ch/)
-- [Pension Kafischnaps](https://www.kafischnaps.ch/de/hotel/hotel)
-- [Oldtown Hostel Otter](https://oldtownzurich.com/)
-- [Jugendherberge](https://www.youthhostel.ch/de/hostels/zuerich/)
+<!-- - [25 Hours Hotel Langstrasse](https://www.25hours-hotels.com/hotels/zuerich/langstrasse) -->
+<!-- - [St. Josef](https://www.st-josef.ch/) -->
+<!-- - [Sorell Hotel Rex](https://sorellhotels.com/de/rex/zuerich) -->
+<!-- - [Hotel Bristol](https://www.hotelbristol.ch/) -->
+<!-- - [Guesthouse Zollhaus](https://guesthouse-zollhaus.ch/) -->
+<!-- - [Hotel Marta](https://www.hotelmarta.ch/) -->
+<!-- - [Pension Kafischnaps](https://www.kafischnaps.ch/de/hotel/hotel) -->
+<!-- - [Oldtown Hostel Otter](https://oldtownzurich.com/) -->
+<!-- - [Jugendherberge](https://www.youthhostel.ch/de/hostels/zuerich/) -->
 
-### Attractions and sights in Zurich
+<!-- ### Attractions and sights in Zurich -->
 
-#### The monument: Grossmünster
+<!-- #### The monument: Grossmünster -->
 
-The twin towers of the Grossmünster are not only Zurich's most prominent landmark, visitors can also climb up the Karlsturm and enjoy a breathtaking view over the city.
+<!-- The twin towers of the Grossmünster are not only Zurich's most prominent landmark, visitors can also climb up the Karlsturm and enjoy a breathtaking view over the city. -->
 
-#### The Chagall Windows: Fraumünster
+<!-- #### The Chagall Windows: Fraumünster -->
 
-On the other side of the Limmat stands the Fraumünster church with its famous windows created by Chagall and the Swiss artist Augusto Giacometti.
+<!-- On the other side of the Limmat stands the Fraumünster church with its famous windows created by Chagall and the Swiss artist Augusto Giacometti. -->
 
-#### Zurich's very own Mountain: Uetliberg
+<!-- #### Zurich's very own Mountain: Uetliberg -->
 
-The best way to take in a city is from above. The Uetliberg lookout is just a short train ride and a 10-minute walk away, and the view over the city, lake and Alps is spectacular.
+<!-- The best way to take in a city is from above. The Uetliberg lookout is just a short train ride and a 10-minute walk away, and the view over the city, lake and Alps is spectacular. -->
 
-#### Lake Zurich
+<!-- #### Lake Zurich -->
 
-Those who haven't seen Lake Zurich, weren't in Zurich. When standing next to the famous Ganymede statue on the Bürkliterrasse, you can see as far as the Swiss Alps.
+<!-- Those who haven't seen Lake Zurich, weren't in Zurich. When standing next to the famous Ganymede statue on the Bürkliterrasse, you can see as far as the Swiss Alps. -->
 
-#### The Square: Sechseläutenplatz
+<!-- #### The Square: Sechseläutenplatz -->
 
-With the opera house, the Kronenhalle, the Cafe Odeon and Lake Zurich just a stone's throw away, the Sechseläutenplatz is the ideal starting point for your sightseeing tour. For more information about the opera program: <https://www.opernhaus.ch/spielplan/kalendarium/>
+<!-- With the opera house, the Kronenhalle, the Cafe Odeon and Lake Zurich just a stone's throw away, the Sechseläutenplatz is the ideal starting point for your sightseeing tour. For more information about the opera program: <https://www.opernhaus.ch/spielplan/kalendarium/> -->
 
-#### Lindenhof
+<!-- #### Lindenhof -->
 
-This glorious park has been known since the year 80 BC and is regarded as the origin of Zurich's history. Thanks to its great view it's also the ideal selfie spot.
+<!-- This glorious park has been known since the year 80 BC and is regarded as the origin of Zurich's history. Thanks to its great view it's also the ideal selfie spot. -->
 
-#### The Old Town
+<!-- #### The Old Town -->
 
-The Limmat river separates the medieval Old Town into two parts, however both are equally marked by narrow streets, beautiful houses, glorious guildhalls and charming squares.
+<!-- The Limmat river separates the medieval Old Town into two parts, however both are equally marked by narrow streets, beautiful houses, glorious guildhalls and charming squares. -->
 
-#### The New: Zurich West
+<!-- #### The New: Zurich West -->
 
-Once Zurich's industrial district, today the neighbourhood is an ode to creativity, design and architecture with numerous restaurants, bars, galleries and quirky boutiques.
+<!-- Once Zurich's industrial district, today the neighbourhood is an ode to creativity, design and architecture with numerous restaurants, bars, galleries and quirky boutiques. -->
 
-#### Kunsthaus Zürich
+<!-- #### Kunsthaus Zürich -->
 
-The Kunsthaus of Zurich is one of the most important art museums of Switzerland. It has recently been expanded and offers a wide range of Swiss and international art collections. More information on current collections: <https://www.kunsthaus.ch/en/>
+<!-- The Kunsthaus of Zurich is one of the most important art museums of Switzerland. It has recently been expanded and offers a wide range of Swiss and international art collections. More information on current collections: <https://www.kunsthaus.ch/en/> -->
 
-#### Viadukt
+<!-- #### Viadukt -->
 
-Contemporary markets and shops crowd the arches under the artistically converted railway viaduct. <https://www.im-viadukt.ch>
+<!-- Contemporary markets and shops crowd the arches under the artistically converted railway viaduct. <https://www.im-viadukt.ch> -->
 
-<!-- More information: <https://www.zuerich.com/en/visit/top-things-to-do-in-zurich> -->
+<!-- <\!-- More information: <https://www.zuerich.com/en/visit/top-things-to-do-in-zurich> -\-> -->
 
 
-### Helpful information
+<!-- ### Helpful information -->
 
-####  Bicycle rental
-Zürich rollt - Bikes for free: <https://www.inyourpocket.com/zurich/zuri-rollt-bikes-for-free_65918v>. Publi Bike: <https://www.publibike.ch/en/zurich>. Download the app and rent a bike or an e-bike and take a ride through the city.
+<!-- ####  Bicycle rental -->
+<!-- Zürich rollt - Bikes for free: <https://www.inyourpocket.com/zurich/zuri-rollt-bikes-for-free_65918v>. Publi Bike: <https://www.publibike.ch/en/zurich>. Download the app and rent a bike or an e-bike and take a ride through the city. -->
 
-#### Currency
+<!-- #### Currency -->
 
-In Switzerland, you pay with the Swiss Franc (CHF). Some shops and restaurants in Zurich accept the Euro, but exchange rates are usually very bad. It is therefore worthwhile to get CHF. The easiest way to do this is at ATMs. Most shops and restaurants accept credit card and debit card payments, but it is always good to have some cash on you.
+<!-- In Switzerland, you pay with the Swiss Franc (CHF). Some shops and restaurants in Zurich accept the Euro, but exchange rates are usually very bad. It is therefore worthwhile to get CHF. The easiest way to do this is at ATMs. Most shops and restaurants accept credit card and debit card payments, but it is always good to have some cash on you. -->
 
-#### Electricity
+<!-- #### Electricity -->
 
-In Switzerland, the socket types C and J with 230 volts and 50 hertz frequency are used. Please check out in advance if you need an adaptor to be able to connect your laptop or other electronic devices to the Swiss socket types. Further Information: <https://www.power-plugs-sockets.com/switzerland/>
+<!-- In Switzerland, the socket types C and J with 230 volts and 50 hertz frequency are used. Please check out in advance if you need an adaptor to be able to connect your laptop or other electronic devices to the Swiss socket types. Further Information: <https://www.power-plugs-sockets.com/switzerland/> -->
 
-#### Internet
+<!-- #### Internet -->
 
-At UZH, you can use the internet via the wireless networks "eduroam" (check out your login and password at your home institution) or "uzh-guest".
+<!-- At UZH, you can use the internet via the wireless networks "eduroam" (check out your login and password at your home institution) or "uzh-guest". -->
 
-#### In case it is still warm in the end: Swimming
+<!-- #### In case it is still warm in the end: Swimming -->
 
-Zurich is known for its many possibilities for swimming and bathing. Many of them are free of charge. Starting in the north, the Werdinsel, a small island in the Limmat, is a popular place for nature lovers. More urban places are Oberer und Unterer Letten, or numerous places around the Lake of Zurich. Yet, swimming is not allowed everywhere - in case of doubt ask someone.
+<!-- Zurich is known for its many possibilities for swimming and bathing. Many of them are free of charge. Starting in the north, the Werdinsel, a small island in the Limmat, is a popular place for nature lovers. More urban places are Oberer und Unterer Letten, or numerous places around the Lake of Zurich. Yet, swimming is not allowed everywhere - in case of doubt ask someone. -->
 
-#### Drinking Water
-You can refill your drinking bottle from any tab and from the public fountains everywhere in the city. The water from the tap or any of the many fountains across the city has excellent drinking water quality. 
+<!-- #### Drinking Water -->
+<!-- You can refill your drinking bottle from any tab and from the public fountains everywhere in the city. The water from the tap or any of the many fountains across the city has excellent drinking water quality.  -->
 
