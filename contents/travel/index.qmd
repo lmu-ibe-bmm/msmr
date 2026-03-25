@@ -20,6 +20,42 @@ A network plan for the tram, bus and S-Bahn lines can be found [here](https://ww
 
 Tickets for all means of public transport within the city (including some boats and mountain railways) are available from the vending machines at each stop or the ticket counters located, e.g., at the train stations and the airport. 
 
+
+### Accommodation
+
+There is no special conference rate but here are some examples for places to stay. The information below each link indicates walking time to the conference site (Rämistrasse 71), walking time to public transport stop serving tram lines 6, 9, 10 (which go directly to the conference site), and price category from $ to $$$.
+
+- [Hotel Marta](https://en.hotelmarta.ch/): 11 min walk, 2 min tram 6/10 ($)
+- [Hotel Bristol](https://www.hotelbristol.ch): 15 min walk, 4 min from tram 6/10 ($$)
+- [Oldtown Hostel Otter](https://oldtownzurich.com/): 16 min walk, 3 min tram 8/9 ($)
+- [Hotel Hottingen](https://www.hotelhottingen.ch/hotel-en/): 14 min walk, 4 min tram 8/9 ($$)
+- [Sorell Hotel Rütli](https://www.sorellhotels.com/en/ruetli): 12 min walk, 2 min tram 6/10 ($$)
+- [Swiss Chocolate Hotel](https://www.swisschocolatehotel.com): 12 min walk, 2 min tram 6/10 ($$)
+- [Hotel Limmathof](https://www.limmathof.com): 12 min walk, 1 min tram 6/10 ($$)
+- [Hotel Josef](https://hoteljosef.ch/en/): 25 min walk, 10 min tram 6/10 ($$$)
+- [Sorell Hotel Rex](https://sorellhotels.com/de/rex/zuerich): 17 min walk, 7 min tram 6/10 ($$)
+- [Guesthouse Zollhaus](https://www.guesthouse-zollhaus.ch/en): 30 min walk, 14 min tram 6/10 ($)
+- [Kafi Schnaps Pension Hotel](https://www.kafischnaps.ch/en/hotel/hotel): 31 min walk, 1 min to bus 33 with transfer to tram 6/10 ($)
+- [Zurich Youth Hostel](https://www.youthhostel.ch/de/hostels/zuerich/): 58 min walk, 7 min tram 7 or 2 min bus 72 with transfer to tram lines ($)
+
+### Some nice places to eat or drink in Zurich
+
+- [Hiltl Dachterasse](https://hiltl.ch/): Specialized in vegetarian food; also in other locations in Zurich ($$)
+- [tibits Seefeld](https://www.tibits.ch/en/home): Specialized in vegetarian food; also in other locations in Zurich ($$)
+- [Restaurant Alpenrose](http://www.restaurantalpenrose.ch/): Excellent, home-style cuisine with many Zurich and Swiss specialities ($$$)
+- [Afghan Anar](https://www.afghananar.ch/): Delicious Afghan dishes ($$)
+- [Confiserie Sprüngli](https://www.spruengli.ch/de/): Traditional cafe with French pastry ($$)
+- [BQM](http://www.bqm-bar.ch/): Student cafe/bar near the main university building, mainly drinks ($)
+- [Frau Gerolds Garten](https://www.fraugerold.ch/): Urban garden with drinks, food and views on the trains ($$)
+- [Odeon](https://odeon.ch/en/): Old and famous bar in the city center ($$)
+- [Franzos](https://franzos.ch/franzos/): French creperie and bistro at the river (\$-\$\$)
+- [da PONE](https://www.dapone.ch/): "Top Pizzeria in Switzerland 2025" and "100 Top Pizza World 2025"; at the river ($$)
+- [Mori Ramen](https://mori.ch/): Japanese ramen; close to university main building and art museum ($$)
+- [Punto italiano](https://www.hellozurich.ch/de/spot/punto-italiano.html): Paninotecca and Focacceria; near university main building ($)
+- [Kitchen Republik](https://www.kitchen-republic.ch/de/zuerich-west): Fusion kitchen ($$)
+- [Die Waid](https://diewaid.ch/): Fine, home-style cuisine; one of the best views in Zurich ($$$)
+
+
 <!-- ### Accommodation -->
 
 <!-- There is no special conference rate but here are some examples for places to stay: -->
