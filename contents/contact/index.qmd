@@ -15,3 +15,5 @@ If you have any questions, do not hesitate to contact the local organizers at [m
 :::
 
 This event is co-sponsored by the [Center for Reproducible Science and Research Synthesis](https://www.crs.uzh.ch/en.html) of the University of Zurich.
+
+![](../assets/CRS_Logo.png){height=200px fig-align="center"}
