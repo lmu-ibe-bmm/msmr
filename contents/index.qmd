@@ -18,7 +18,7 @@ page-layout: full
 
 **Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-G-217, Rämistrasse 71, 8006 Zürich, Switzerland
 
-[Registration (opens April 1st)](https://forms.office.com/e/dTPgBdJDwm){.btn .btn-primary}
+[Registration](https://forms.office.com/e/dTPgBdJDwm){.btn .btn-primary}
 
 The aim of this event is to bring together researchers from different fields of methodological research (including, but not limited to (bio)statistics, psychometrics, econometrics, bioinformatics, machine learning, quantitative methods for ecology, linguistics, etc.) who are interested in meta science on methods research, discuss how new quantitative methods are developed, evaluated and published in our respective fields, and how this process can be improved by sharing our thoughts and experiences across disciplines.
 
