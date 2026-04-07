@@ -1,0 +1,9 @@
+---
+title: "Evaluating statistical methods: a metascientific journey"
+---
+
+**Speaker:** [Anne-Laure Boulesteix](https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html), Ludwig-Maximilians-Universität München
+
+### Abstract {.unlisted .unnumbered}
+
+Statisticians are often keen to analyze the statistical aspects of the so-called "replication crisis in science". They condemn fishing expeditions and are involved in designing studies across empirical scientific fields applying statistical methods, such as life sciences. But what about good practice issues and study designs in their own - methodological - research, i.e. research considering statistical (or more generally, computational) methods as research objects? When developing and evaluating new statistical methods and data analysis tools, do statisticians and data scientists adhere to the good practice principles they promote in fields which apply statistics and data science? In this talk I will review my 17-year research journey in the methodology of method evaluation, from early work to current promising concepts and open directions. Particular attention will be devoted to the notion of bias and lack of neutrality, practical concerns that have been central to past and current metascientific efforts.

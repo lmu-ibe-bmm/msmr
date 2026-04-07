@@ -24,11 +24,11 @@ The aim of this event is to bring together researchers from different fields of 
 
 Confirmed keynote speakers include:
 
-- Jean Yang, University of Sydney (Biostatistics/Bioinformatics)
-- Anne-Laure Boulesteix, Ludwig-Maximilians-Universität München (Biostatistics)
-- Tim Morris, Novartis (Biostatistics)
-- Jessica Kay Flake, University of British Columbia (Psychological Methods)
-- Björn Siepe, Philipps-Universität Marburg (Psychological Methods)
+- Jean Yang, University of Sydney (Biostatistics/Bioinformatics): TBA
+- Anne-Laure Boulesteix, Ludwig-Maximilians-Universität München (Biostatistics): [ Evaluating statistical methods: a metascientific journey](program/talks/al-boulesteix.html)
+- Tim Morris, Novartis (Biostatistics): TBA
+- Jessica Kay Flake, University of British Columbia (Psychological Methods): TBA
+- Björn Siepe, Philipps-Universität Marburg (Psychological Methods): TBA
 
 Registration and abstract submission will open on April 1st. Abstract submission will be open until April 30th. The number of on-site places is limited. Registrations will be accepted on a first-come, first-served basis until June 15th. Attendance is free of charge. We are planning to live-stream the event, but presenting will only be possible in-person. Researchers from all methodological research disciplines are welcome.
 
