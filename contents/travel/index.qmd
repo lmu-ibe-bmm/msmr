@@ -38,7 +38,29 @@ There is no special conference rate but here are some examples for places to sta
 - [Kafi Schnaps Pension Hotel](https://www.kafischnaps.ch/en/hotel/hotel): 31 min walk, 1 min to bus 33 with transfer to tram 6/10 ($)
 - [Zurich Youth Hostel](https://www.youthhostel.ch/de/hostels/zuerich/): 58 min walk, 7 min tram 7 or 2 min bus 72 with transfer to tram lines ($)
 
-### Some nice places to eat or drink in Zurich
+### Helpful information
+
+#### Currency
+
+In Switzerland, you pay with the Swiss Franc (CHF). Some shops and restaurants in Zurich accept the Euro, but exchange rates are usually very bad. It is therefore worthwhile to get CHF. The easiest way to do this is at ATMs. Most shops and restaurants accept credit card and debit card payments.
+
+#### Electricity
+
+In Switzerland, the socket types C and J with 230 volts and 50 hertz frequency are used. Please check out in advance if you need an adaptor to be able to connect your laptop or other electronic devices to the Swiss socket types. Further Information: <https://www.power-plugs-sockets.com/switzerland/>
+
+#### Internet
+
+At UZH, you can use the internet via the wireless networks "eduroam" if supported by your institution (check login and password at your home institution) or "uzh-guest". More information is available on the [UZH central IT website](https://www.zi.uzh.ch/en/getting-started/guest.html).
+
+#### Swimming
+
+Zurich is known for its many possibilities for swimming and bathing. Many of them are free of charge. Starting in the north, the Werdinsel, a small island in the Limmat, is a popular place for nature lovers. More urban places are Oberer und Unterer Letten, or numerous places around the Lake of Zurich. More information is available on [Zurich Tourist Information website](https://www.zuerich.com/en/inform-plan/seasons-and-climate/zurich-in-summer/outdoor-pools-in-zurich).
+
+#### Drinking Water
+
+You can refill your drinking bottle from any tab and from the public fountains everywhere in the city. The water from the tap or any of the many fountains across the city has excellent drinking water quality.
+
+#### Some nice places to eat or drink in Zurich
 
 - [Hiltl Dachterasse](https://hiltl.ch/): Specialized in vegetarian food; also in other locations in Zurich ($$)
 - [tibits Seefeld](https://www.tibits.ch/en/home): Specialized in vegetarian food; also in other locations in Zurich ($$)
@@ -59,29 +81,3 @@ There is no special conference rate but here are some examples for places to sta
 - [Zum chalte Brunne](https://www.zumchaltebrunne.ch/): Ethical butcher with restaurant and lunch menu ($$)
 - [Pizza Nation](https://pizzanation.ch/): Take-away Pizza ($)
 - [Al Paso](https://alpaso.ch/): Sandwiches and salads; lunch only with limited seating options ($)
-
-
-<!-- ### Helpful information -->
-
-<!-- ####  Bicycle rental -->
-<!-- Zürich rollt - Bikes for free: <https://www.inyourpocket.com/zurich/zuri-rollt-bikes-for-free_65918v>. Publi Bike: <https://www.publibike.ch/en/zurich>. Download the app and rent a bike or an e-bike and take a ride through the city. -->
-
-<!-- #### Currency -->
-
-<!-- In Switzerland, you pay with the Swiss Franc (CHF). Some shops and restaurants in Zurich accept the Euro, but exchange rates are usually very bad. It is therefore worthwhile to get CHF. The easiest way to do this is at ATMs. Most shops and restaurants accept credit card and debit card payments, but it is always good to have some cash on you. -->
-
-<!-- #### Electricity -->
-
-<!-- In Switzerland, the socket types C and J with 230 volts and 50 hertz frequency are used. Please check out in advance if you need an adaptor to be able to connect your laptop or other electronic devices to the Swiss socket types. Further Information: <https://www.power-plugs-sockets.com/switzerland/> -->
-
-<!-- #### Internet -->
-
-<!-- At UZH, you can use the internet via the wireless networks "eduroam" (check out your login and password at your home institution) or "uzh-guest". -->
-
-<!-- #### In case it is still warm in the end: Swimming -->
-
-<!-- Zurich is known for its many possibilities for swimming and bathing. Many of them are free of charge. Starting in the north, the Werdinsel, a small island in the Limmat, is a popular place for nature lovers. More urban places are Oberer und Unterer Letten, or numerous places around the Lake of Zurich. Yet, swimming is not allowed everywhere - in case of doubt ask someone. -->
-
-<!-- #### Drinking Water -->
-<!-- You can refill your drinking bottle from any tab and from the public fountains everywhere in the city. The water from the tap or any of the many fountains across the city has excellent drinking water quality.  -->
-
