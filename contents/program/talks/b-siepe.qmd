@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "Simulation studies in psychology: State of the art, problems, and potential solutions"
 ---
 
 **Speaker:** [Björn Siepe](https://bsiepe.github.io/), Philipps-Universität Marburg

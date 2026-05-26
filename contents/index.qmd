@@ -29,7 +29,7 @@ Confirmed keynote speakers include:
 - Anne-Laure Boulesteix, Ludwig-Maximilians-Universität München (Biostatistics): [Evaluating statistical methods: a metascientific journey](program/talks/al-boulesteix.html)
 - Tim Morris, Novartis (Biostatistics): TBA
 - Jessica Kay Flake, University of British Columbia (Psychological Methods): TBA
-- Björn Siepe, Philipps-Universität Marburg (Psychological Methods): TBA
+- Björn Siepe, Philipps-Universität Marburg (Psychological Methods): [Simulation studies in psychology: State of the art, problems, and potential solutions](program/talks/b-siepe.html)
 
 Abstract submission is closed, registration is still open. The number of on-site places is limited. Registrations will be accepted on a first-come, first-served basis until June 15th. Attendance is free of charge. The symposium will also be live-streamed (registration also required). Researchers from all methodological research disciplines are welcome.
 
