@@ -1,0 +1,14 @@
+---
+title: "Are pilot studies underreported? Preliminary findings from a meta-scientific assessment in psychology"
+---
+**Presenters:** Agata Bochynska and Mary Beth Neff, University of Oslo
+
+### Abstract {.unlisted .unnumbered}
+
+Piloting, or preliminary testing to refine methods before planned data collection, is common in empirical research. In psychology, most researchers conduct pilot studies (PRTF, 2024), yet there is little guidance on how to report them in publications. Given concerns that undisclosed piloting may obscure researcher degrees of freedom (Simmons et al., 2011; Simonsohn et al., 2018) and that misguided practices can lead to underpowered studies (Albers & Lakens, 2018), we designed an assessment of recent psychological literature to examine whether and how pilots are reported.
+
+We conducted a preliminary retrospective observational assessment of articles published in 2022 and 2023 across 513 psychology journals (selected from Kanalregisteret, 2025). Here, we present the study methodology and preliminary findings from N = 11,921 articles sampled.
+
+Approximately 15% of (retrieved full-text) articles matched an in-text keyword search for 'pilot' or related synonyms. Preliminary observations from articles that reported a pilot study (N = 150 after excluding false-positive keyword hits from a manually coded subset of 350) suggest that more than half of pilot reports include information about the number of pilots, sample size, and/or purpose, but few report pilot stopping rules, recruitment methods, or procedures. Data, materials, and analyses from pilots are rarely shared. Reported pilot purposes broadly reflect the variety reported by researchers themselves, with 'assessing a method's effect' a commonly reported use in the literature.
+
+These preliminary results suggest a low rate of pilot reporting in psychology. Along with the results, we will present best-case reporting examples and preliminary conceptual work on piloting typologies and reporting guidelines. We invite discussion on whether these patterns generalize to other disciplines and how pilot reporting practices affect research methodology.

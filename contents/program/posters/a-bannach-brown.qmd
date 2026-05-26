@@ -1,0 +1,16 @@
+---
+title: "Expanding the GALENOS Approach to Triangulating Evidence (GATE): A Framework for Integrating Evidence for Decision-Making in Psychiatry"
+---
+**Presenter:** Alexandra Bannach-Brown, University of Bern
+
+**Co-authors:** Thomy Tonia (University of Bern), Virginia Chiocchia (University of Bern), Daniel Zeidan (University of Bern), Mathias Egger (University of Zurich), Georgia Salanti (University of Bern), on behalf of the [GALENOS initiative](https://www.galenos.org.uk/)
+
+### Abstract {.unlisted .unnumbered}
+
+Translational research aims to bridge the gap between discovery science and clinical application by integrating evidence from multiple sources, including animal models, mechanistic studies, and human research. However, formal methods for synthesising these heterogeneous sources remain underdeveloped. Within the Global Alliance for Living Evidence on aNxiety, depressiOn and pSychosis (GALENOS) initiative, triangulating evidence has been used within Living Systematic Reviews of preclinical and clinical data to inform research prioritisation. The GALENOS Approach to Triangulation (GATE) provides a structured framework for integrating evidence streams with different sources of bias, co-produced with clinicians and people with lived experience.
+
+To date, GATE has operated primarily as a qualitative framework, assessing consistency in direction of effects across two evidence sources. While this supports broad synthesis, its support for decision-making is limited and does not yet accommodate all relevant evidence. We propose an expanded version of GATE that 1) broadens the eligible evidence and 2) develops a structured approach to quantitative triangulation.
+
+First, we extend GATE beyond animal and randomised controlled trial data to incorporate Mendelian randomisation, target trial emulation and other observational studies, capturing complementary evidence on causality at both mechanistic and population levels. Second, we are developing a quantitative synthesis approach that aligns evidence sources to a common causal question. Evidence will be combined using structured bias modelling, with weights informed by study relevance, risk of bias, and expected direction and magnitude of design-specific errors, building on recent advances in epidemiology and Bayesian methods.
+
+The methodological developments will be accompanied by updated guidance, workflow templates, and decision tools to determine when quantitative triangulation, or separate evidence-stream appraisal is most appropriate. By expanding GATE into a flexible framework for integrating diverse sources of evidence, this work aims to support transparent causal inference and research prioritisation in psychiatry, with broader relevance for translational biomedicine.

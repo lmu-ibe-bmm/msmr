@@ -1,0 +1,10 @@
+---
+title: "Toward a standardized evaluation of imputation methodology"
+---
+**Presenter:** Hanne Oberman, Utrecht University
+
+**Co-authors:** Gerko Vink (Utrecht University)
+
+### Abstract {.unlisted .unnumbered}
+
+Simulation studies have become a flexible and easy tool for evaluating new methodology. Unfortunately, there is no consensus on how to perform simulation studies for the evaluation of missing data methodology, such as imputation. We suggest a course of action for simulating and evaluating missing data problems. Our suggested course of action is by no means meant to serve as a complete cookbook, but rather meant to incite critical thinking and a move to objective and fair evaluations of imputation methodology. We invite the audience to take part in the discussion, contribute to our proposed simulation checklist, and imagine how this may relate to preregistration templates for simulation studies.

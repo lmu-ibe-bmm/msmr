@@ -1,0 +1,12 @@
+---
+title: "Open Lab Online: A Reproducible Platform for Cross-Disciplinary Methods Research"
+---
+**Presenter:** Yury Shevchenko, University of Konstanz
+
+### Abstract {.unlisted .unnumbered}
+
+Methodological research increasingly depends on complex computational workflows for designing studies, running simulations or experiments, and managing sensitive data, yet the infrastructure supporting these workflows often remains ad hoc, opaque, and difficult to reproduce. This creates familiar risks: selective reporting of analyses, undocumented deviations from preregistered plans, idiosyncratic handling of failures, and limited reuse of existing tasks and pipelines across projects, teams, and disciplines. I present Open Lab Online, a web platform designed to support transparent, secure, and reproducible online experiments and methods evaluations from study conception to data access.
+
+Open Lab Online offers two linked web applications: a researcher interface ([research.open-lab.online](https://research.open-lab.online)) and a participant interface ([app.open-lab.online](https://app.open-lab.online)). The researcher interface provides a structured representation of studies, tasks, and projects. Researchers can build the "study flow" using a visual interface that specifies task order, randomization schemes for between-subjects designs, and conditional branching, making the implemented design explicit and inspectable. Experimental tasks and surveys are created using the open-source lab.js builder and uploaded as JSON files, which are then executed by the Open Lab server, ensuring that the exact task version used in a study is stored and re-runnable.
+
+The platform is explicitly designed around meta-scientific and reproducibility goals for methods research. First, it encourages reusable, shareable components: researchers can upload tasks and questionnaires as modular building blocks and mark them as publicly reusable, enabling many-analyst or many-lab style evaluations of analysis strategies, task variants, or simulation designs. Second, it makes the full experimental pipeline more auditable by recording a structured representation of the study flow, data-collection settings, and publication-relevant metadata within the same system. Third, the platform integrates collaboration features such as project cards for recruiting collaborators, researcher profiles, and in-platform messaging, lowering the barrier for interdisciplinary teams (e.g., statistics, psychometrics, ML, linguistics) to jointly develop and scrutinize methods studies.

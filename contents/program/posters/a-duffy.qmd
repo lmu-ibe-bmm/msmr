@@ -1,0 +1,18 @@
+---
+title: "Mapping Psychology Preregistrations: A Subdiscipline Landscape of OSF Registrations, 2012-2025"
+---
+**Presenter:** Albie Duffy, Goldsmiths, University of London
+
+**Co-authors:** Bence Palfi (Goldsmiths, University of London)
+
+### Abstract {.unlisted .unnumbered}
+
+Open Science Framework (OSF) preregistrations have grown from under 1,000 registrations in 2013 to over 40,000 per year by 2025, representing one of the most comprehensive records of organised research planning in behavioural science. Yet the rich three-level BePress subject taxonomy embedded in OSF's API, which encodes not only broad disciplines (e.g. Social and Behavioural Sciences) but fine-grained subdisciplines (e.g. Clinical Psychology, Cognitive Psychology), has received little systematic analysis as a data source in its own right.
+
+Using this taxonomy, we present a subdiscipline-level landscape of 47,183 labelled Psychology preregistrations on OSF from 2020–2025, extracted from a full corpus of 241,435 registrations spanning 2012–2025. We identify 22 Psychology subdisciplines: the three largest, Social Psychology (28.6%), Cognitive Psychology (16.9%), and Clinical Psychology (13.4%), collectively account for nearly 60% of labelled Psychology preregistrations.
+
+The data reveal a meaningful temporal shift: Social Psychology's share declined from 22.8% in 2020 to 17.3% in 2025, while Clinical Psychology nearly doubled from 6.4% to 13.2% over the same period. Schema preferences also vary systematically by subdiscipline; AsPredicted templates are overrepresented in Social and Cognitive Psychology relative to the corpus baseline, whereas OSF's standard template dominates Clinical and Health Psychology.
+
+Subject metadata coverage varies considerably across the full corpus: the majority of pre-2020 registrations lack subject labels entirely, which constrains the direct temporal extension of the subdiscipline analysis. To recover broader SBS-level trends across the full corpus, we apply a validated binary text classifier (AUC = 0.93, precision >93%) to probabilistically back-label unlabelled records, recovering an estimated 22,000 additional SBS registrations and restoring a richer volumetric picture of SBS preregistration growth across the full 2012–2025 window. Subdiscipline trend analyses are deliberately anchored to the 2020–2025 labelled period, where ground-truth subject metadata is sufficiently dense to support reliable inference.
+
+Together, these findings demonstrate that existing OSF metadata, properly extracted, support a richer picture of disciplinary diversity in open research practice than coarse-level analyses alone can provide, with implications for understanding the differential uptake of preregistration across subdisciplines and for longitudinal metascience using open registries.
