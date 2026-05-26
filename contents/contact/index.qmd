@@ -1,6 +1,4 @@
----
-title: "Contact the Organizers"
----
+# Contact {.unnumbered .unlisted}
 
 If you have any questions, do not hesitate to contact the local organizers at [msmr@psychologie.uzh.ch](mailto:msmr@psychologie.uzh.ch).
 

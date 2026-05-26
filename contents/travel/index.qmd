@@ -1,6 +1,4 @@
----
-title: "Travel and Venue"
----
+# Travel and Venue
 
 ### Conference location
 
