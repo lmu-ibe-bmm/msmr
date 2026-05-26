@@ -1,0 +1,20 @@
+---
+title: "An update on the use of methodological research phases to formally assess the maturity of biostatistical methods"
+---
+**Speaker:** Edouard Bonneville, LMU Munich and Munich Center for Machine Learning
+
+**Co-authors:** Anne-Laure Boulesteix (LMU Munich and Munich Center for Machine Learning), Taya Collyer (Monash University), Alireza Ghorbani (LMU Munich), Georg Heinze (Medical University of Vienna), Michael Kammer (Medical University of Vienna), Tim Morris (Novartis Pharmaceuticals UK Ltd.), Ian White (University College London)
+
+### Abstract {.unlisted .unnumbered}
+
+The concept of phases in methodological development, analogous to drug development phases, has been proposed to assess the reliability and maturity of methods in biostatistical research. Heinze et al. (2024) identified four phases, ranging from early method development to extensive evaluations and evidence-synthesizing work. The current project builds on this concept by providing a framework for identifying both the contribution of a given paper to a method's phase, and the phases that a method has "completed" so far.
+
+First, we reviewed articles citing the initial proposal by Heinze et al. to better understand how the methodological phases concept has been used thus far. Second, we developed a checklist and tool designed to capture methodological contributions from literature and map them onto the developmental phases of a method, via the assignment of cumulative "badges" that are indicative of a method's maturity.
+
+According to the review, the phases concept has often been used by methodological articles for "self-positioning" (e.g. identifying one's study as early-phase), and by metascientific studies to call for specific research. We developed a prototype of a tool using guiding questions that target different domains relevant for the assignment of phases. These consider both study-level work such as mathematical development and simulation studies, and method-level characteristics such as robustness to misspecification. Initial experiments suggest that the tool can provide clear signals about a method's phase, helping researchers understand its reliability and applicability for a given task.
+
+The proposed framework has implications for multiple stakeholders, including methodological researchers, method-users, and journal editors. By providing an indication of a method's maturity, the tool can support method-users in selecting the most appropriate method for their research needs, and highlight areas where further research is required. A planned Delphi survey will help refine the tool and ensure its applicability across different methodological communities.
+
+ References:
+ 
+ - Heinze, G., Boulesteix, A. L., Kammer, M., Morris, T. P., White, I. R., & Simulation Panel of the STRATOS Initiative. (2024). Phases of methodological research in biostatistics—building the evidence base for new methods. Biometrical Journal, 66(1), 2200222.

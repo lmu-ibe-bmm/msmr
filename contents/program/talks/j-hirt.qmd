@@ -1,0 +1,16 @@
+---
+title: "Harvest plots in evidence syntheses: a meta-research study on their use and characteristics"
+---
+**Speaker:** Julian Hirt, University of Bern / Eastern Switzerland University of Applied Sciences
+
+**Co-authors:** Benedikt Mersdorf (University Hospital Augsburg), Melanie Pellegrino (ETH Zürich), Gabriele Meyer (Martin Luther University Halle-Wittenberg)
+
+### Abstract {.unlisted .unnumbered}
+
+**Background and objective:** Harvest plots are a graphical method for the presentation of complex and heterogeneous evidence in health-related evidence syntheses. Their design and use is not standardized. We aimed at providing a systematic overview of the use and methodological characteristics of harvest plots.
+
+**Methods:** We used a meta-research approach to capture existing research and publication practices. The study protocol was prospectively registered on Open Science Framework (10.17605/OSF.IO/75V6X). We included evidence syntheses on a health-related research question that used and reported a harvest plot for data analysis and synthesis. The search was carried out in PubMed and Embase. We performed a forward citation search of the original 2008 publication, in which the harvest plot was incepted. The selection and extraction of data was mainly carried out by one reviewer and double-checked by a second reviewer, with no formal quality assurance of the included studies.
+
+**Results:** We included 201 harvest plots to our analysis, published between 2008 and 2025. Study characteristics show that narrative harvest plot descriptions were mainly provided as part of the figure (n=191; 95%). The design of the studies that used a harvest plot was mainly a systematic review (n=186; 93%) including interventional (n=122; 61%) and observational (n=103; 51%) studies. The included harvest plots mainly provide information about intervention or exposure in the row (n=80; 40%), effect direction in the column (n=170; 85%). Bar color indicates mainly study quality (n=27; 13%) or outcome measurement (n=25; 12%). General top or bottom information mainly indicated a study reference (n=114; 57%).
+
+**Conclusions:** Our results revealed large heterogeneity and a lack of standardization of the design, illustration, and characteristics when providing a harvest plot. Methods guidance in combination with a digitalized tool or program code and reporting guidance may contribute to a higher degree of standardization and facilitate interpretation of harvest plots.

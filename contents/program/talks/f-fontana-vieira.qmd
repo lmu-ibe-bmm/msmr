@@ -1,0 +1,12 @@
+---
+title: "rix: Ensuring Computational Reproducibility of Simulation Studies"
+---
+**Speaker:** Felipe Fontana Vieira, Ghent University
+
+**Co-authors:** Jason Geller (Department of Psychology and Neuroscience, Boston College), Bruno Rodrigues (Statistics and Data Strategy Departments, Ministry of Research and Higher Education, Luxembourg)
+
+### Abstract {.unlisted .unnumbered}
+
+Computational reproducibility remains limited in psychological research, despite the increasing norms for sharing data and analysis code. One reason may be that researchers treat reproducibility as a continuum of components rather than an integrated whole, so that a weakness in any single component (such as an unreproducible system environment) can render the entire pipeline non-executable. In this talk, we walk through this continuum and the tools commonly used to address each component, before introducing Nix and the {rix} R package as a practical foundation for managing the system environment — the layer on which workflow orchestration and other components ultimately depend.
+
+We discuss why the most widely advocated tools may fail and demonstrate briefly how {rix} can be used to define, build, and share isolated, project-specific software environments that precisely capture R versions, package dependencies, system libraries, and integrated development environments. We believe {rix} lowers the technical barrier to robust, end-to-end reproducibility, and offers a scalable solution for simulation studies and methodological research in psychology and related fields.

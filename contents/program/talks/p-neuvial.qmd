@@ -1,0 +1,12 @@
+---
+title: "PCI StatML: an open peer review platform in the field of Statistics and Machine Learning"
+---
+**Speaker:** Pierre Neuvial, CNRS and Institut de Mathématiques de Toulouse
+
+**Co-authors:** On behalf of the PCI Stat ML managing board: Erwan Scornet (Sorbonne Université), Lucas Mentch (University of Pittsburgh), Nelle Varoquaux (CNRS and Université Grenoble Alpes)
+
+### Abstract {.unlisted .unnumbered}
+
+[Peer Community in (PCI)](https://peercommunityin.org/) is a non-profit scientific organization that offers an editorial process of open science by creating specific communities of researchers reviewing and recommending preprints in their field. Each preprint is evaluated by at least two reviewers. The evaluation process is coordinated by a recommender. If the preprint is accepted (possibly after revision), the recommender writes a short text of recommendation, which is published with a DOI together with the reviews and all the editorial correspondence on the PCI website. After acceptance, authors may choose to publish it in Peer Community Journal, or to submit it to a PCI-friendly journal, or to any other journal.
+
+At the beginning of 2026 we launched [PCI Statistics and Machine Learning](https://statml.peercommunityin.org/). This PCI accepts theoretical, methodological or applied contributions in statistics or machine learning. We welcome negative results and method comparisons, and aim to emphasize rigor and reproducibility rather than novelty-driven findings. The goal of this presentation is to introduce PCI StatML and share our recent experience, from its inception to the current organization and perspective.

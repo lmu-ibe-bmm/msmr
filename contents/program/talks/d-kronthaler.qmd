@@ -1,0 +1,10 @@
+---
+title: "Multi-method specification curves for presenting simulation results"
+---
+**Speaker:** David Kronthaler, University of Zurich
+
+**Co-authors:** Carolin Strobl (University of Zurich)
+
+### Abstract {.unlisted .unnumbered}
+
+Simulation studies are a central tool for evaluating statistical and machine learning methods, often involving many design factors with multiple levels. Summarizing resulting performance patterns is challenging: conventional panel plots can typically display only a subset of factors at a time and do not directly reveal systematic differences across scenarios or between methods. We build on the graphical framework of specification curve analysis (SCA), originally developed for empirical research settings with multiple defensible analytic choices (Simonsohn et al., 2020). SCA enumerates a principled set of analytical specifications and orders them by a focal statistic (e.g., treatment effect) providing a compact visualization of how results vary across analytic decisions. We propose multi-method specification curve (MMSC) analysis for presenting simulation results. MMSCs display performance measures from simulation studies, stratified by analysis method, across an ordered set of simulation scenarios. The ordering is chosen to make trends within methods and differences between methods directly interpretable. For example, by emphasizing between-method variation or by making method-specific curves as monotonic as possible, extending the intuition of single-method SCA to MMSCs. Compared to panel plots, MMSCs are not constrained by the number of design factors displayed simultaneously, but rather by the total number of factor levels considered, allowing visualization of high-dimensional simulation designs with many factors. This talk presents the underlying ideas of MMSCs and illustrates their use through simulation studies with diverse performance patterns, demonstrating how MMSCs can facilitate the identification of systematic trends and method differences.

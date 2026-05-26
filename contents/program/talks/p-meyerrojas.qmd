@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "The Do's and Don'ts of Benchmarking in Systems Biology"
 ---
 
 **Speaker:** [Pablo Meyer Rojas](https://research.ibm.com/people/pablo-meyer-rojas), IBM

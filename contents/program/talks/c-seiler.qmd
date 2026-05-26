@@ -1,0 +1,26 @@
+---
+title: "When hardware decides your biology: What we learned from running PCA on an HPC cluster"
+---
+**Speaker:** Christof Seiler, University Hospital and University of Zurich
+
+**Co-authors:** Celina Geiss (University Hospital and University of Zurich)
+
+### Abstract {.unlisted .unnumbered}
+
+Principal Component Analysis (PCA) is the backbone of high-dimensional data analysis. Default settings in single-cell genomics Seurat and Bioconductor/R packages produce different PCA results on different CPU architectures. This affects downstream clustering and may cause rare but meaningful cell clusters to magically disappear even when we set a random seed, like good computational citizens. Similar issues have been reported for scanpy [1], with containerization proposed as a mitigation. We show this is insufficient: even with identical BLAS/LAPACK libraries, CPU-specific instruction sets produce divergent results below the container level. 
+ 
+ Using shell scripts and R code, we reproduce the problem [2] on the High-Performance Computing (HPC) cluster of our institution for two use cases: Seurat clustering [3] and Bioconductor data integration [4]. Approximate PCA uses the R package irlba [5] which causes the problem in both cases. Setting approx = FALSE in the function Seurat::RunPCA in Seurat and BSPARAM=BiocSingular::ExactParam() in the function batchelor::FastMnnParam in Bioconductor solves the problem. We further show that this numerical instability propagates through the entire downstream pipeline, with biological consequences: unstable cluster boundaries alter cell population numbers and composition, directly affecting cell annotation and differential expression results. 
+ 
+ It may be possible for a seasoned sysadmin to fix this, but not for a biologist trying to define rare cell populations. This PCA behavior is unexpected and has gone unnoticed when scientists still worked on their laptops with fixed hardware. But it shows up as more scientists move their computationally intensive analyses to heterogeneous HPC infrastructure and affects any field relying on iterative approximate PCA. We provide clarifications, reproducible code, and a practical workaround. 
+ 
+ References 
+ 
+ [1] <https://github.com/grst/scanpy_reproducibility> 
+ 
+ [2] <https://github.com/rheumatology-usz-uzh/pca-reproducibility> 
+ 
+ [3] <https://satijalab.org/seurat/articles/pbmc3k_tutorial.html>
+ 
+ [4] <https://bioconductor.org/books/release/OSCA.multisample/integrating-datasets.html#mnn-correction> 
+ 
+ [5] Baglama, James, and Lothar Reichel. Augmented implicitly restarted Lanczos bidiagonalization methods. SIAM Journal on Scientific Computing 27.1 (2005): 19-42.

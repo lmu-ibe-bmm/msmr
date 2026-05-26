@@ -1,0 +1,12 @@
+---
+title: "Why benchmarking platforms alone will not solve the generalizability issue in methodological research"
+---
+**Speaker:** Carolin Strobl, University of Zurich
+
+### Abstract {.unlisted .unnumbered}
+
+Simulation and benchmarking studies are designed to compare the performance of statistical or machine learning methods. However, because each study typically relies on only a limited number of data sets or data-generating processes (DGPs), and because there is often little overlap between studies, it remains difficult to generalize findings or aggregate results across studies.
+
+The idea of developing platforms for living benchmarks, where users can continuously add methods, data sets or DGPs, and performance measures to enable real-time updates of method comparisons, appears very promising as a potential solution to this problem. However, in this talk I will argue that the implicit assumptions inherent in many suggestions, namely that there is "one method to fit them all" and a "population of data sets/DGPs", are flawed. Consequently, the hope that drawing larger and more representative samples from such a population will ultimately resolve the generalizability issue seems misguided.
+
+Benchmarking platforms do offer substantial potential for improving our understanding of method properties and for helping substantive researchers choose appropriate methods. However, this potential can only be realized if benchmarking platforms are combined with meta-learning approaches.

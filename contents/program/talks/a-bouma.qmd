@@ -1,0 +1,18 @@
+---
+title: "Reporting Practices, Open Science Practices, and Trustworthiness of Simulation Studies in Psychology: A Questionnaire Study"
+---
+**Speaker:** Anouk Bouma, Tilburg University
+
+**Co-authors:** Marcel A.L.M. van Assen (Tilburg University), Robbie C.M. van Aert (Tilburg University), Lieke Voncken (Tilburg University)
+
+### Abstract {.unlisted .unnumbered}
+
+Simulation studies have received little attention in the context of the replication crisis, despite their central role in methodological research. In this exploratory study, we examined reporting practices, open science practices, and perceived trustworthiness of simulation studies in psychology. A total of 221 researchers (response rate = 35.1%) completed a questionnaire regarding a simulation-based article they published in 2023 or 2024 in one of 17 methodological psychology journals.
+
+The questionnaire covered a range of topics, including selective reporting, the reporting of nonconvergence and Monte Carlo standard errors (MCSEs), preregistration, the use of reporting guidelines, code sharing, and other reproducibility measures. Importantly, we also investigated the rationale underlying these practices using both closed-ended and open-ended items. We also assessed researchers' subjective evaluations of simulation studies in their field with respect to reproducibility, completeness in reporting, and overall trustworthiness.
+
+Among the results to be discussed are the finding that selective reporting occurred in over half of the simulation studies in our sample and was not less prevalent in studies conducted by neutral authors, as well as that over 75% of respondents indicated that all code needed to reproduce their simulations is openly available. Moreover, respondents estimated the probability that a typical simulation study is trustworthy to be 0.74 on average.
+
+We discuss discrepancies with previous literature reviews that suggest less optimistic prevalence estimates for various practices, and highlight what the rationales for (non-)adherence to various practices can teach us. Moreover, we discuss the subjective evaluations that researchers gave typical simulation studies in their field and why these may be overly optimistic. We conclude with practical recommendations for journals and researchers, and outline directions for future work.
+
+Preprint: <https://doi.org/10.31234/osf.io/jn9sy_v2>

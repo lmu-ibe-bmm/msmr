@@ -1,0 +1,12 @@
+---
+title: "Exploring multiplicity of analysis strategies in practice: A tour of the TOPSTATS project"
+---
+**Speaker:** Michael Kammer, Medical University of Vienna
+
+**Co-authors:** Sinan Necdet Cervirme (Medical University of Vienna), Moritz Pamminger (Medical University of Vienna), Georg Heinze (Medical University of Vienna), Daniela Dunkler (Medical University of Vienna), Susanne Strohmaier (Medical University of Vienna)
+
+### Abstract {.unlisted .unnumbered}
+
+Variation in scientific results arises from often undocumented choices across data processing, modeling, and reporting, even when guided by a prespecified statistical analysis plan (SAP). To handle and understand such variation, the core idea of TOPSTATS is to develop state-of-the-art (SOTA) SAPs for relevant target estimands in several case studies, as well as a meta-SAP comprising plausible alternative analysis paths. We suggest to present the result of the preferred (i.e., SOTA) analysis in the context of a distribution of estimates from the meta-SAP, while highlighting how decisions along the analysis path affect the results. Further, we discuss the tensions between different purposes of SAPs, such as transparency of decisions, facilitating reproducibility and constraining analytic degrees of freedom. For example, preregistration of SAPs is often proposed as a way to decrease the multiplicity of analyses strategies. However, achieving a sufficient level of detail to mitigate variability calls for in-depth initial data analysis and experience with the data source often not available at first preregistration.
+
+In this contribution, we will outline how our ideas fit into the landscape of other proposals to explore the garden of forking paths, such as multiverse-style, multi-model or multi-analyst approaches. We will focus on the practical challenges of writing an SAP, implementing analyses, and displaying results in a manner reflecting a multiplicity of analysis strategies, and propose a layered approach to handle these complexities. To exemplify our ideas we will present results from a pharmacoepidemiologic case study (n=12,000) which investigated the effect of three P2Y12 inhibitors on 3-years restricted mean survival time (RMST) in patients undergoing coronary stenting. We also use this example to demonstrate the variation that arises due to the translation of SAPs into executable code by results from a coding experiment that randomized 43 statisticians to SAPs with two levels of details.

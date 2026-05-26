@@ -1,0 +1,10 @@
+---
+title: "From Piloting to Publication: Transparency Over the Entire Life-Cycle of a Simulation Study"
+---
+**Speaker:** Mirka Henninger, University of Basel
+
+**Co-authors:** R. Philip Chalmers (York University), Carolin Strobl (University of Zurich)
+
+### Abstract {.unlisted .unnumbered}
+
+A growing body of methodological literature suggests that simulation studies are affected by issues similar to those underlying the replication crisis in empirical research, including inadequate reporting practices and the exploitation of researcher degrees of freedom (RDF). Open Science practices originally developed for empirical research have therefore been proposed as potential remedies. In this presentation, we examine both parallels and differences between the conceptual stages of empirical and simulation research and we identify stage-specific threats to scientific rigor. We argue that, in simulation studies, the piloting stage offers numerous, easily exploitable RDF, whereas in empirical research most such vulnerabilities arise during the analysis stage. Building on these considerations, we emphasize the importance of documentation and transparency throughout the entire simulation life-cycle and propose a structured template that accounts for all its stages by: (1) specifying (and preregistering) hypotheses and core design choices early in the process; (2) recording all simulated settings, including variants not selected for the final study; and (3) supporting transparent reporting and reproducibility of the published results. Together, these components are intended to improve the planning, documentation, and reporting of simulation studies, and to facilitate transparent communication of research decisions across the full life-cycle of simulation-based methodological research projects.

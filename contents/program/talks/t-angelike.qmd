@@ -1,0 +1,10 @@
+---
+title: "Less but the same? Methods for Reducing the Size of Simulation Study Designs"
+---
+**Speaker:** Tim Angelike, Philipps-Universität Marburg
+
+**Co-authors:** Martin Papenberg (University of Düsseldorf)
+
+### Abstract {.unlisted .unnumbered}
+
+Simulation studies are a well established tool in methodological research to evaluate the performance of a statistical model under different conditions. Simulation studies offer the possibility to vary a multitude of factors, a quality that invariably leads to the development of designs that are more intricate in nature when compared with those employed in traditional empirical research. A common procedure in this field is to realize a fully crossed design, in which each combination of all factor levels is created. However, fully crossed designs can quickly become too complex to be realized in a feasible computation time. One potential solution to this problem might be to omit certain factor level combinations entirely from the simulation. This objective could be accomplished, for example, by employing a random selection method to determine the simulation conditions that would be realized. However, this may result in an imbalance in the frequency of factor levels and combinations. A more effective approach would be to methodically reduce the design while ensuring the preservation of critical information (e.g., uniformity of factor levels and their combinations) and the absence of bias. An example of such an approach is anticlustering, an algorithmic procedure developed to create equivalent partitions of a dataset. A review of approaches for design reduction techniques is conducted, and the practical efficacy of these approaches in designing simulation studies is discussed.
