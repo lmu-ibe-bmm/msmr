@@ -1,9 +1,9 @@
 ---
-title: "TBA"
+title: "Using Research Synthesis to Navigate the Multiverse"
 ---
 
 **Speaker:** [Jessica Kay Flake](https://www.jessicakayflake.com/), University of British Columbia
 
 ### Abstract {.unlisted .unnumbered}
 
-TBA
+If you had analyzed the data in a different way, would you have gotten the same result? Many analysts and multiverse studies in applied research report a resounding "no." But this analytic uncertainty is commonly ignored by the researchers who develop quantitative methodologies. Because methodological research favors the development of new methods over existing ones, multiverses are constantly expanding while systems for navigating them are neglected. Using examples from psychometrics, I will show how research synthesis can be used to map the multiverse, determine its size and scope, and design confirmatory methodological comparison in real and simulated applications. I'll discuss the potential of research synthesis for grabbling with the methodological multiverse and invite ideas for its further development.

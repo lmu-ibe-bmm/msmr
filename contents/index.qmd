@@ -24,12 +24,12 @@ The aim of this event is to bring together researchers from different fields of 
 
 Confirmed keynote speakers include:
 
-- Jean Yang, University of Sydney (Biostatistics / Bioinformatics): TBA
-- Pablo Meyer Rojas, IBM (AI / Systems Biology): [The Do's and Don'ts of Benchmarking in Systems Biology](program/talks/p-meyerrojas.html)
-- Anne-Laure Boulesteix, Ludwig-Maximilians-Universität München (Biostatistics): [Evaluating statistical methods: a metascientific journey](program/talks/al-boulesteix.html)
-- Tim Morris, Novartis (Biostatistics): TBA
-- Jessica Kay Flake, University of British Columbia (Psychological Methods): TBA
-- Björn Siepe, Philipps-Universität Marburg (Psychological Methods): [Simulation studies in psychology: State of the art, problems, and potential solutions](program/talks/b-siepe.html)
+- Jean Yang, University of Sydney (Biostatistics / Bioinformatics): [Beyond Rankings: Benchmark-Informed Method Recommendation](/program/talks/j-yang.html)
+- Pablo Meyer Rojas, IBM (AI / Systems Biology): [The Do's and Don'ts of Benchmarking in Systems Biology](/program/talks/p-meyerrojas.qmd)
+- Anne-Laure Boulesteix, Ludwig-Maximilians-Universität München (Biostatistics): [Evaluating statistical methods: a metascientific journey](/program/talks/al-boulesteix.qmd)
+- Tim Morris, Novartis (Biostatistics): [Trust and trustworthiness of research on biostatistical methods](/program/talks/t-morris.qmd)
+- Jessica Kay Flake, University of British Columbia (Psychological Methods): [Using Research Synthesis to Navigate the Multiverse](/program/talks/jk-flake.qmd)
+- Björn Siepe, Philipps-Universität Marburg (Psychological Methods): [Simulation studies in psychology: State of the art, problems, and potential solutions](/program/talks/b-siepe.qmd)
 
 Abstract submission is closed, registration is still open. The number of on-site places is limited. Registrations will be accepted on a first-come, first-served basis until June 15th. Attendance is free of charge. The symposium will also be live-streamed (registration also required). Researchers from all methodological research disciplines are welcome.
 
@@ -38,8 +38,7 @@ Join us to share your work, to exchange ideas, and to shape the future of meta s
 This event is co-sponsored by the [Center for Reproducible Science and Research Synthesis](https://www.crs.uzh.ch/en.html) of the University of Zurich and the [Swiss National Science Foundation](https://www.snf.ch/en).
 
 :::
-
 ---
 
-{{< include program/index.qmd >}}
+{{< include /program/index.qmd >}}
 

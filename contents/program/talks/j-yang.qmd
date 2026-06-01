@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "Beyond Rankings: Benchmark-Informed Method Recommendation"
 ---
 
 **Speaker:** [Jean Yang](https://profiles.sydney.edu.au/jean.yang), University of Sydney

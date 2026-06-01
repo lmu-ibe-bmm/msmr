@@ -1,9 +1,9 @@
 ---
-title: "TBA"
+title: "Trust and trustworthiness of research on biostatistical methods"
 ---
 
 **Speaker:** [Tim Morris](https://tpmorris.substack.com/), Novartis
 
 ### Abstract {.unlisted .unnumbered}
 
-TBA
+With the best of intentions and sharpest of focus, it can be difficult to fully understand a contribution to methodological research. We are often left wondering, `Is it me, or is there a problem with the work?' Ultimately, we are then left to decide whether or not to take the conclusions on trust. Repeatedly observing that a new method is better than all existing methods may undermine our trust. The same problem has faced many empirical sciences and led to the introduction of structures, with varying degrees of success. In this talk, I will discuss some structures and ideas that may improve the trustworthiness of biostatistical methodology research, arguing against imposing too many -- if any -- as hard rules.
