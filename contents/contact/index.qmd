@@ -16,9 +16,26 @@ If you have any questions, do not hesitate to contact the local organizers at [m
 
 ::: {layout-ncol=2}
 
-![[Center for Reproducible Science and Research
-Synthesis](https://www.crs.uzh.ch/en.html) of the University of Zurich](../assets/CRS_Logo.png){height=70px fig-align="center"}
+<a href="https://www.crs.uzh.ch/en.html"><img src="../assets/CRS_Logo.png" height="70px" style="display:block;margin:auto;"></a>
 
- ![[Swiss National Science Foundation](https://www.snf.ch/en)](../assets/SNF_Logo.png){height=70px fig-align="center"} 
+<a href="https://www.snf.ch/en"><img src="../assets/SNF_Logo.png" height="70px" style="display:block;margin:auto;"></a>
+
+:::
+
+<br>
+
+::: {layout-ncol=2}
+
+<a href="https://www.stadt-zuerich.ch/"><img src="../assets/Logo_der_Stadt_Zurich.png" height="50px" style="display:block;margin:auto;"></a>
+
+<a href="https://www.zh.ch/"><img src="../assets/Logo_Kanton_Zurich.jpg" height="100px" style="display:block;margin:auto;"></a>
+
+:::
+
+<br>
+
+::: {layout-ncol=2}
+
+<a href="https://www.zhrcourses.uzh.ch/en.html"><img src="../assets/Rcourses_logo.jpg" height="120px" style="display:block;margin:auto;"></a>
 
 :::
