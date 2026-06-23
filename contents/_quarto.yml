@@ -32,6 +32,8 @@ website:
             href: ./program/index.qmd
           - text: "Travel and Venue"
             href: ./travel/index.qmd
+          - text: "Code of Conduct"
+            href: ./code-of-conduct/index.qmd
           # - text: "Scientific Committee"
           #   href: ./committee/index.qmd
           - text: "Contact"
