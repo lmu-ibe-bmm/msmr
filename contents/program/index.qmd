@@ -10,7 +10,7 @@
 | 09:10 – 09:50 | Keynote 1 – Anne-Laure Boulesteix: [Evaluating statistical methods: a metascientific journey](/program/talks/al-boulesteix.qmd)                                         |
 | 09:50 – 10:05 | Georgia Salanti: [Generative AI versus human across multiple systematic review tasks: the regenAIrate project](/program/talks/g-salanti.qmd)                            |
 | 10:05 – 10:20 | Jamie Cummins: [Methodological flexibility in the use of large language models in research](/program/talks/j-cummins.qmd)                                               |
-| 10:20 – 10:35 | Daniel Heck: [Evaluating the Quality of LLM Feature Extraction: A Systematic Simulation Workflow](/program/talks/d-heck.qmd)                                            |
+| 10:20 – 10:35 | Daniel Heck: [Evaluating the Quality of LLM-Generated Ratings: A Systematic Simulation Workflow](/program/talks/d-heck.qmd)                                            |
 | 10:35 – 10:50 | Alex Ocampo: [Calculating True Values in Causal Inference Simulation Studies via Gaussian Quadrature](/program/talks/a-ocampo.qmd)                                      |
 | 10:50 – 11:00 | Group Photo                                                                                                                                                             |
 | 11:00 – 11:20 | Coffee Break                                                                                                                                                            |
