@@ -7,7 +7,6 @@ subtitle: "31 August 2026: 16:10 – 17:30"
 - Albie Duffy: [Mapping Psychology Preregistrations: A Subdiscipline Landscape of OSF Registrations, 2012-2025](posters/a-duffy.qmd)
 - Alexandra Bannach-Brown: [Expanding the GALENOS Approach to Triangulating Evidence (GATE): A Framework for Integrating Evidence for Decision-Making in Psychiatry](posters/a-bannach-brown.qmd)
 - Aljoscha Rimpler: [The Joint Effects of Measurement Error and Model Misspecification on Statistical Interactions](posters/a-rimpler.qmd)
-- Alyssa Columbus: [How Much Evidence Is Enough? A Framework for Managing Data Reuse and Analytical Uncertainty in Repeated Data Analysis](posters/a-columbus.qmd)
 - Barış Karahan: [Fishing for Significance: Hypothesis Testing Involving Multiple Testing with Bayesian and Frequentist Tools](posters/b-karahan.qmd)
 - Bence Palfi: [PreCheck: An AI-Assisted Tool and Evaluation Framework for Preregistration Quality](posters/b-palfi.qmd)
 - Dominik Dianovics: [Agent-based Models for Multi-analyst Studies](posters/d-dianovics.qmd)
