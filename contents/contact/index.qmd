@@ -36,6 +36,9 @@ If you have any questions, do not hesitate to contact the local organizers at [m
 
 ::: {layout-ncol=2}
 
+Hochschulstiftung Universität Zürich
+
+
 <a href="https://www.zhrcourses.uzh.ch/en.html"><img src="../assets/Rcourses_logo.jpg" height="120px" style="display:block;margin:auto;"></a>
 
 :::
