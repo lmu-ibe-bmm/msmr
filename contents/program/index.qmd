@@ -21,7 +21,7 @@
 | 12:30 – 12:45 | Anouk Bouma: [Reporting Practices, Open Science Practices, and Trustworthiness of Simulation Studies in Psychology: A Questionnaire Study](/program/talks/a-bouma.qmd)  |
 | 12:45 – 13:00 | Karoline Huth: [Toward Reporting Standards for Methodological Research](/program/talks/k-huth.qmd)                                                                      |
 | 13:00 – 14:30 | Lunch Break                                                                                                                                                             |
-| **Session 3** | **Benchmarking and Knowledge Cumulation** (Chair: Jessica Blake)                                                                                                                              |
+| **Session 3** | **Benchmarking and Knowledge Cumulation** (Chair: Jessica Flake)                                                                                                                              |
 | 14:30 – 15:10 | Keynote 3 – Jean Yang: [Beyond Rankings: Benchmark-Informed Method Recommendation](/program/talks/j-yang.qmd)                                                           |
 | 15:10 – 15:25 | František Bartoš: [Living Synthetic Benchmarks: A Neutral and Cumulative Framework for Simulation Studies](/program/talks/f-bartos.qmd)                                 |
 | 15:25 – 15:40 | Carolin Strobl: [Why benchmarking platforms alone will not solve the generalizability issue in methodological research](/program/talks/c-strobl.qmd)                    |
