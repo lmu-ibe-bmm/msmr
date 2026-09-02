@@ -1,6 +1,8 @@
-# 1st Interdisciplinary Symposium on Meta Science for Methods Research
+# 2nd Interdisciplinary Symposium on Meta Science for Methods Research
 
-- **Date:**  31 August and 1 September, 2026
-- **Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-G-217, Rämistrasse 71, 8001 Zürich
+- **Date:**  30 August and 31 August, 2027
+- **Location:** Munich (location TBA)
 
-Visit the website for more information: <https://crsuzh.pages.uzh.ch/msmr>.
+Visit the website for more information: ...
+
+(Website forked from: <https://crsuzh.pages.uzh.ch/msmr> )

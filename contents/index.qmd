@@ -1,5 +1,5 @@
 ---
-title: 1st Interdisciplinary Symposium on Meta Science for Methods Research
+title: 2nd Interdisciplinary Symposium on Meta Science for Methods Research
 subtitle: Understanding and improving how methods are developed and evaluated
 sidebar: false
 about:
@@ -14,9 +14,9 @@ page-layout: full
 
 ## Mark your calendar!
 
-**Date:** 31 August and 1 September, 2026
+**Date:** 30 and 31 August, 2027
 
-**Location:** [University of Zurich Main Building](https://www.plaene.uzh.ch/KOL), Room KOL-G-217, Rämistrasse 71, 8006 Zürich, Switzerland
+**Location:** Location TBA, München, Deutschland
 
 <!-- [Registration](https://forms.office.com/e/dTPgBdJDwm){.btn .btn-primary} -->
 **Registration is closed.**
@@ -25,12 +25,7 @@ The aim of this event is to bring together researchers from different fields of 
 
 Confirmed keynote speakers include:
 
-- Jean Yang, University of Sydney (Biostatistics / Bioinformatics): [Beyond Rankings: Benchmark-Informed Method Recommendation](/program/talks/j-yang.html)
-- Pablo Meyer Rojas, IBM (AI / Systems Biology): [The Do's and Don'ts of Benchmarking in Systems Biology](/program/talks/p-meyerrojas.qmd)
-- Anne-Laure Boulesteix, Ludwig-Maximilians-Universität München (Biostatistics): [Evaluating statistical methods: a metascientific journey](/program/talks/al-boulesteix.qmd)
-- Tim Morris, Novartis (Biostatistics): [Trust and trustworthiness of research on biostatistical methods](/program/talks/t-morris.qmd)
-- Jessica Kay Flake, University of British Columbia (Psychological Methods): [Using Research Synthesis to Navigate the Multiverse](/program/talks/jk-flake.qmd)
-- Björn Siepe, Philipps-Universität Marburg (Psychological Methods): [Simulation studies in psychology: State of the art, problems, and potential solutions](/program/talks/b-siepe.qmd)
+- ...
 
 <!-- The number of on-site places is limited. Registrations will be accepted on a first-come, first-served basis until June 15th. Attendance is free of charge. The symposium will also be live-streamed (registration also required). Researchers from all methodological research disciplines are welcome. -->
 
