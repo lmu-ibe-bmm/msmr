@@ -2,36 +2,35 @@ project:
   type: website
             
 website:
-    title: "MSMR 2026"
+    title: "MSMR 2027"
     page-navigation: true
     back-to-top-navigation: true
     page-footer:        
         left: |
-          Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) \
-          Supported by the [CRS](https://www.crs.uzh.ch/en.html)
+          Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) 
         
        
         right: |
            Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) \
-           \ Source code on [![](https://images.ctfassets.net/xz1dnu24egyd/1hnQd13UBU7n5V0RsJcbP3/769692e40a6d528e334b84f079c1f577/gitlab-logo-100.png){fig-alt="GitLab" width=65px}](https://gitlab.uzh.ch/crsuzh/msmr)
+           \ Source code on [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-alt="GitHub" width=30px}](https://github.com/lmu-ibe-bmm/msmr)
            
            
     #favicon: 'assets/Logo_CRS_col.svg'
     
     site-url: https://crsuzh.pages.uzh.ch/msmr
-    repo-url: https://gitlab.uzh.ch/crsuzh/msmr
+    repo-url: https://github.com/lmu-ibe-bmm/msmr
     
     navbar:
         collapse-below: lg
         background: light
         
         right:                  
-          - text: "Call for Contributions"
-            href: ./call/index.qmd
-          - text: "Program"
-            href: ./program/index.qmd
-          - text: "Travel and Venue"
-            href: ./travel/index.qmd
+        #  - text: "Call for Contributions"
+        #    href: ./call/index.qmd
+        # - text: "Program"
+        #    href: ./program/index.qmd
+        #  - text: "Travel and Venue"
+        #    href: ./travel/index.qmd
           - text: "Code of Conduct"
             href: ./code-of-conduct/index.qmd
           # - text: "Scientific Committee"

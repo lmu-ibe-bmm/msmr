@@ -1,59 +1,8 @@
 # Program {.unnumbered .unlisted}
 
-### 31 August 2026
+### 30 August 2027
 
-| Time          |                                                                                                                                                                         |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 08:30 – 09:00 | Registration                                                                                                                                                            |
-| 09:00 – 09:10 | Welcome                                                                                                                                                                 |
-| **Session 1** | **AI and Simulation** (Chair: Jean Yang)                                                                                                                                                  |
-| 09:10 – 09:50 | Keynote 1 – Anne-Laure Boulesteix: [Evaluating statistical methods: a metascientific journey](/program/talks/al-boulesteix.qmd)                                         |
-| 09:50 – 10:05 | Georgia Salanti: [Generative AI versus human across multiple systematic review tasks: the regenAIrate project](/program/talks/g-salanti.qmd)                            |
-| 10:05 – 10:20 | Jamie Cummins: [Methodological flexibility in the use of large language models in research](/program/talks/j-cummins.qmd)                                               |
-| 10:20 – 10:35 | Daniel Heck: [Evaluating the Quality of LLM-Generated Ratings: A Systematic Simulation Workflow](/program/talks/d-heck.qmd)                                            |
-| 10:35 – 10:50 | Alex Ocampo: [Calculating True Values in Causal Inference Simulation Studies via Gaussian Quadrature](/program/talks/a-ocampo.qmd)                                      |
-| 10:50 – 11:00 | Group Photo                                                                                                                                                             |
-| 11:00 – 11:20 | Coffee Break                                                                                                                                                            |
-| **Session 2** | **Design and Reporting of Simulation Studies** (Chair: Tim Morris)                                                                                                                         |
-| 11:20 – 12:00 | Keynote 2 – Björn Siepe: [Simulation studies in psychology: State of the art, problems, and potential solutions](/program/talks/b-siepe.qmd)                            |
-| 12:00 – 12:15 | Tim Angelike: [Less but the same? Methods for Reducing the Size of Simulation Study Designs](/program/talks/t-angelike.qmd)                                             |
-| 12:15 – 12:30 | Mirka Henninger: [From Piloting to Publication: Transparency Over the Entire Life-Cycle of a Simulation Study](/program/talks/m-henninger.qmd)                          |
-| 12:30 – 12:45 | Anouk Bouma: [Reporting Practices, Open Science Practices, and Trustworthiness of Simulation Studies in Psychology: A Questionnaire Study](/program/talks/a-bouma.qmd)  |
-| 12:45 – 13:00 | Karoline Huth: [Toward Reporting Standards for Methodological Research](/program/talks/k-huth.qmd)                                                                      |
-| 13:00 – 14:30 | Lunch Break                                                                                                                                                             |
-| **Session 3** | **Benchmarking and Knowledge Cumulation** (Chair: Jessica Flake)                                                                                                                              |
-| 14:30 – 15:10 | Keynote 3 – Jean Yang: [Beyond Rankings: Benchmark-Informed Method Recommendation](/program/talks/j-yang.qmd)                                                           |
-| 15:10 – 15:25 | František Bartoš: [Living Synthetic Benchmarks: A Neutral and Cumulative Framework for Simulation Studies](/program/talks/f-bartos.qmd)                                 |
-| 15:25 – 15:40 | Carolin Strobl: [Why benchmarking platforms alone will not solve the generalizability issue in methodological research](/program/talks/c-strobl.qmd)                    |
-| 15:40 – 15:55 | David Kronthaler: [Multi-method specification curves for presenting simulation results](/program/talks/d-kronthaler.qmd)                                                |
-| 15:55 – 16:10 | Edouard Bonneville: [An update on the use of methodological research phases to formally assess the maturity of biostatistical methods](/program/talks/e-bonneville.qmd) |
-| 16:10 – 17:30 | Coffee Break & [Poster Session](/program/posters.qmd)                                                                                                                   |
-| 18:30         | [Conference Dinner](/travel/#conference-dinner)                                                                                                                                                       |
+(Markdown table, TBA)                                                                                                                                                        |
+### 31 August 2027
 
-### 1 September 2026
-
-| Time          |                                                                                                                                                                                                                                   |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 08:30 – 09:00 | Registration                                                                                                                                                                                                                      |
-| 09:00 – 09:10 | Welcome                                                                                                                                                                                                                           |
-| **Session 4** | **Multiverse, Many Analysts and Robustness** (Chair: Pablo Meyer Rojas)                                                                                                                                                                                     |
-| 09:10 – 09:50 | Keynote 4 – Jessica K. Flake: [Using Research Synthesis to Navigate the Multiverse](/program/talks/jk-flake.qmd)                                                                                                                  |
-| 09:50 – 10:05 | Mona Niethammer: [Crowdsourcing methodological comparisons: A many-analysts simulation study to identify conditions under which results in convenience samples generalize to target populations](/program/talks/m-niethammer.qmd) |
-| 10:05 – 10:20 | Michael Kammer: [Exploring multiplicity of analysis strategies in practice: A tour of the TOPSTATS project](/program/talks/m-kammer.qmd)                                                                                          |
-| 10:20 – 10:35 | Balazs Aczel: [Investigating the analytical robustness of the social and behavioural sciences](/program/talks/b-aczel.qmd)                                                                                                        |
-| 10:35 – 10:50 | Johanna Einsiedler: [Robustness at Scale: How fragile are empirical economic results?](/program/talks/j-einsiedler.qmd)                                                                                                           |
-| 10:50 – 11:20 | Coffee Break                                                                                                                                                                                                                      |
-| **Session 5** | **Biostatistics, Methods Guidance and Open Science** (Chair: Björn Siepe)                                                                                                                                                                             |
-| 11:20 – 12:00 | Keynote 5 – Tim Morris: [Trust and trustworthiness of research on biostatistical methods](/program/talks/t-morris.qmd)                                                                                                            |
-| 12:00 – 12:15 | Ewout Steyerberg: [Recent criteria and simple rules for the required sample size to develop clinical prediction models: what does it matter?](/program/talks/e-steyerberg.qmd)                                                    |
-| 12:15 – 12:30 | Julian Hirt: [Harvest plots in evidence syntheses: a meta-research study on their use and characteristics](/program/talks/j-hirt.qmd)                                                                                             |
-| 12:30 – 12:45 | Malena Chiaborelli: [From methods research to methods guidance: an evolving collaborative research program](/program/talks/m-chiaborelli.qmd)                                                                                     |
-| 12:45 – 13:00 | Hanne Oberman: [Teaching Open Science and Reproducibility](/program/talks/h-oberman.qmd)                                                                                                                                          |
-| 13:00 – 14:30 | Lunch Break                                                                                                                                                                                                                       |
-| **Session 6** | **Reproducibility, Peer Review and Publishing** (Chair: Anne-Laure Boulesteix)                                                                                                                                                                                   |
-| 14:30 – 15:10 | Keynote 6 – Pablo Meyer Rojas: [The Do's and Don'ts of Benchmarking in Systems Biology](/program/talks/p-meyerrojas.qmd)                                                                                                          |
-| 15:10 – 15:25 | Christof Seiler: [When hardware decides your biology: What we learned from running PCA on an HPC cluster](/program/talks/c-seiler.qmd)                                                                                            |
-| 15:25 – 15:40 | Felipe Fontana Vieira: [rix: Ensuring Computational Reproducibility of Simulation Studies](/program/talks/f-fontana-vieira.qmd)                                                                                                   |
-| 15:40 – 15:55 | Julien Chiquet: [Computo: Redefining Academic Publishing through Native Computational Reproducibility](/program/talks/j-chiquet.qmd)                                                                                              |
-| 15:55 – 16:10 | Pierre Neuvial: [PCI StatML: an open peer review platform in the field of Statistics and Machine Learning](/program/talks/p-neuvial.qmd)                                                                                          |
-| 16:10 – 16:30 | Farewell                                                                                                                                                                                                                          |
+(Markdown table, TBA)                                                                                                                                                                                                                  |

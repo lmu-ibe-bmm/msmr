@@ -3,14 +3,4 @@ title: "Poster Session"
 subtitle: "31 August 2026: 16:10 – 17:30"
 ---
 
-- Agata Bochynska and Mary Beth Neff: [Are pilot studies underreported? Preliminary findings from a meta-scientific assessment in psychology](posters/a-bochynska.qmd) -- KOL-G-212
-- Albie Duffy: [Mapping Psychology Preregistrations: A Subdiscipline Landscape of OSF Registrations, 2012-2025](posters/a-duffy.qmd) -- KOL-G-212
-- Alexandra Bannach-Brown: [Expanding the GALENOS Approach to Triangulating Evidence (GATE): A Framework for Integrating Evidence for Decision-Making in Psychiatry](posters/a-bannach-brown.qmd) -- KOL-G-212
-- Aljoscha Rimpler: [The Joint Effects of Measurement Error and Model Misspecification on Statistical Interactions](posters/a-rimpler.qmd) -- KOL-G-212
-- Barış Karahan: [Fishing for Significance: Hypothesis Testing Involving Multiple Testing with Bayesian and Frequentist Tools](posters/b-karahan.qmd) -- KOL-G-212
-- Bence Palfi: [PreCheck: An AI-Assisted Tool and Evaluation Framework for Preregistration Quality](posters/b-palfi.qmd) -- KOL-G-212
-- Dominik Dianovics: [Agent-based Models for Multi-analyst Studies](posters/d-dianovics.qmd) -- KOL-G-212
-- Gustavo Andres Marquez Flores: [Types of Statistical Arguments in Empirical Research in Psychology](posters/g-marquez-flores.qmd) -- KOL-G-220
-- Hanne Oberman: [Toward a standardized evaluation of imputation methodology](posters/h-oberman.qmd) -- KOL-G-220
-- Jack Fitzgerald: [Non-Robustness in Log-Like Specifications](posters/j-fitzgerald.qmd) -- KOL-G-220
-- Yury Shevchenko: [Open Lab Online: A Reproducible Platform for Cross-Disciplinary Methods Research](posters/y-shevchenko.qmd) -- KOL-G-220
+(List of posts, TBA)

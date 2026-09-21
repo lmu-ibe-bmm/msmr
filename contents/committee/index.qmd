@@ -4,15 +4,15 @@ title: Scientific Committee
 
 The scientific committee is responsible for the evaluation and selection of the submitted contributions.
 
-::: {layout-ncol=3}
+::: {layout-ncol=4}
 
-![Carolin Strobl](../assets/carolin_strobl.jpeg){height=200px fig-align="left"}
+![Anne-Laure Boulesteix](../assets/anne-laure_boulesteix.jpg){height=200px fig-align="left"}
 
-![Samuel Pawel](../assets/samuel_pawel.jpg){height=200px fig-align="left"}
+![Moritz Herrmann](../assets/moritz_herrmann.jpg){height=200px fig-align="left"}
 
-![Mark Robinson](../assets/mark_robinson.jpg){height=200px fig-align="left"}
+![Edouard Bonneville](../assets/ed_bonneville.jpg){height=200px fig-align="left"}
 
-TODO add more people
+Marieke Stolte
 
 :::
 

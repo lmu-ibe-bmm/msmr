@@ -16,25 +16,24 @@ page-layout: full
 
 **Date:** 30 and 31 August, 2027
 
-**Location:** Location TBA, München, Deutschland
+**Location:** Munich, Germany (venue TBA)
 
 <!-- [Registration](https://forms.office.com/e/dTPgBdJDwm){.btn .btn-primary} -->
-**Registration is closed.**
 
 The aim of this event is to bring together researchers from different fields of methodological research (including, but not limited to (bio)statistics, psychometrics, econometrics, bioinformatics, machine learning, quantitative methods for ecology, linguistics, etc.) who are interested in meta science on methods research, discuss how new quantitative methods are developed, evaluated and published in our respective fields, and how this process can be improved by sharing our thoughts and experiences across disciplines.
-
-Confirmed keynote speakers include:
-
-- ...
 
 <!-- The number of on-site places is limited. Registrations will be accepted on a first-come, first-served basis until June 15th. Attendance is free of charge. The symposium will also be live-streamed (registration also required). Researchers from all methodological research disciplines are welcome. -->
 
 Join us to share your work, to exchange ideas, and to shape the future of meta science on methods research! 
 
-This event is co-sponsored by the [Center for Reproducible Science and Research Synthesis](https://www.crs.uzh.ch/en.html) (CRS) of the University of Zurich, the [Swiss National Science Foundation](https://www.snf.ch/en), [Stadt Zürich](https://www.stadt-zuerich.ch/), [Kanton Zürich](https://www.zh.ch/), Hochschulstiftung Universität Zürich, and [Zurich R courses](https://www.zhrcourses.uzh.ch/en.html).
+For more information, see the website from the [1st MSMR conference](https://crsuzh.pages.uzh.ch/msmr/).
+
+**Abstract submission expected to open in spring 2027**
+
+<!-- This event is co-sponsored by the [MCML](https://mcml.ai/), and [...]. -->
 
 :::
 ---
 
-{{< include /program/index.qmd >}}
+<!-- {{< include /program/index.qmd >}} -->
 

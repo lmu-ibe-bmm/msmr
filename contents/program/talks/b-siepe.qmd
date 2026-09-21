@@ -1,9 +1,0 @@
----
-title: "Simulation studies in psychology: State of the art, problems, and potential solutions"
----
-
-**Speaker:** [Björn Siepe](https://bsiepe.github.io/), Philipps-Universität Marburg
-
-### Abstract {.unlisted .unnumbered}
-
-Ever since Monte Carlo simulation became a standard tool in statistical research, it has been criticized for suboptimal design and reporting. In this talk, I will summarize metascientific research on simulation studies, with a focus on psychology, showing that current practice leaves considerable room for improvement. Beyond transparent reporting, I will argue that many of these problems arise from the difficulty of specifying data-generating mechanisms. As potential remedies, I will discuss preregistration, more efficient exploration of the space of data-generating mechanisms, and the use of benchmarking to complement and inform the design of simulation studies.

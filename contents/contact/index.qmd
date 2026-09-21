@@ -1,44 +1,17 @@
 # Contact {.unnumbered .unlisted}
 
-If you have any questions, do not hesitate to contact the local organizers at [msmr@psychologie.uzh.ch](mailto:msmr@psychologie.uzh.ch).
+If you have any questions, do not hesitate to contact the local organizers at [msmr2027@ibe.med.uni-muenchen.de](mailto:msmr2027@ibe.med.uni-muenchen.de).
 
-::: {layout-ncol=3}
+::: {layout-ncol=4}
 
-![Carolin Strobl](../assets/carolin_strobl.jpeg){height=200px fig-align="left"}
+![Anne-Laure Boulesteix](../assets/anne-laure_boulesteix.jpg){height=200px fig-align="left"}
 
-![Samuel Pawel](../assets/samuel_pawel.jpg){height=200px fig-align="left"}
+![Moritz Herrmann](../assets/moritz_herrmann.jpg){height=200px fig-align="left"}
 
-![Mark Robinson](../assets/mark_robinson.jpg){height=200px fig-align="left"}
+![Marieke Stolte](https://placehold.co/500x600){height=200px layout-valign="bottom"}
 
-:::
-
-## Sponsors {.unnumbered .unlisted}
-
-::: {layout-ncol=2}
-
-<a href="https://www.crs.uzh.ch/en.html"><img src="../assets/CRS_Logo.png" height="70px" style="display:block;margin:auto;"></a>
-
-<a href="https://www.snf.ch/en"><img src="../assets/SNF_Logo.png" height="70px" style="display:block;margin:auto;"></a>
+![Edouard Bonneville](../assets/ed_bonneville.jpg){height=200px fig-align="left"}
 
 :::
 
-<br>
-
-::: {layout-ncol=2}
-
-<a href="https://www.stadt-zuerich.ch/"><img src="../assets/Logo_der_Stadt_Zurich.png" height="50px" style="display:block;margin:auto;"></a>
-
-<a href="https://www.zh.ch/"><img src="../assets/Logo_Kanton_Zurich.jpg" height="100px" style="display:block;margin:auto;"></a>
-
-:::
-
-<br>
-
-::: {layout-ncol=2}
-
-Hochschulstiftung Universität Zürich
-
-
-<a href="https://www.zhrcourses.uzh.ch/en.html"><img src="../assets/Rcourses_logo.jpg" height="120px" style="display:block;margin:auto;"></a>
-
-:::
+<!-- Sponsors were here below -->
