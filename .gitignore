@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+_site/
+_freeze/
+.quarto/
+
+/.quarto/
+_site 
+_freeze  
+contents/assets/Grobprogramm*.pdf
+contents/assets/Programm.pdf
+/misc/
