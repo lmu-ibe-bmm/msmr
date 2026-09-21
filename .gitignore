@@ -7,8 +7,10 @@ _freeze/
 .quarto/
 
 /.quarto/
-_site 
-_freeze  
+_site
+_freeze
 contents/assets/Grobprogramm*.pdf
 contents/assets/Programm.pdf
 /misc/
+
+**/*.quarto_ipynb

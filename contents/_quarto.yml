@@ -17,7 +17,7 @@ website:
            
     #favicon: 'assets/Logo_CRS_col.svg'
     
-    site-url: https://crsuzh.pages.uzh.ch/msmr
+    #site-url: https://crsuzh.pages.uzh.ch/msmr
     repo-url: https://github.com/lmu-ibe-bmm/msmr
     
     navbar:
