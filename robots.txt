@@ -1,1 +1,1 @@
-Sitemap: https://crsuzh.pages.uzh.ch/msmr/sitemap.xml
+Sitemap: https://lmu-ibe-bmm.github.io/msmr/sitemap.xml
