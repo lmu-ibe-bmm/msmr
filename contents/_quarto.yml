@@ -8,8 +8,8 @@ website:
     page-footer:        
         left: |
           Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) 
-        
-       
+        #center: |
+        #  [![](/assets/LMU_Logo_RGB_FlaechigGruen.png){fig-alt="LMU Munich" width=65px}](https://www.lmu.de/en/) 
         right: |
            Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) \
            \ Source code on [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-alt="GitHub" width=30px}](https://github.com/lmu-ibe-bmm/msmr)

@@ -2,6 +2,8 @@
 
 If you have any questions, do not hesitate to contact the local organizers at [msmr2027@ibe.med.uni-muenchen.de](mailto:msmr2027@ibe.med.uni-muenchen.de).
 
+Local organizers:
+
 ::: {layout-ncol=4}
 
 ![Anne-Laure Boulesteix](../assets/anne-laure_boulesteix.jpg){height=200px fig-align="left"}
@@ -14,4 +16,18 @@ If you have any questions, do not hesitate to contact the local organizers at [m
 
 :::
 
-<!-- Sponsors were here below -->
+Scientific advisors representing MSMR in various fields:
+
+- Bernd Bischl
+- Eiko Fried
+- Jessica Flake 
+- Malte Lücken
+
+## Supported by {.unnumbered .unlisted}
+
+::: {layout-ncol=2}
+
+<a href="https://mcml.ai/"><img src="../assets/MCML_Logo_cropped.jpg" height="70px" style="display:block;margin:auto;"></a>
+
+<a href="https://www.lmu.de/en/"><img src="../assets/LMU_Logo_RGB_FlaechigGruen.png" height="70px" style="display:block;margin:auto;"></a>
+:::
