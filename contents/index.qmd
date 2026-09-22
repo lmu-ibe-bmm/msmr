@@ -34,5 +34,20 @@ For more information, see the website from the [1st MSMR conference](https://crs
 
 :::
 
+<br><br>
+
+## Organization {.unnumbered .unlisted}
+
+This workshop is joint initiative by the [Boulesteix lab](https://www.en.ibe.med.uni-muenchen.de/lehrstuehle/pr-molecular-medicine/index.html) at the Institute for Medical Information Processing, Biometry, and Epidemiology (IBE) at LMU Munich, and the Munich Center for Machine Learning ([MCML](https://mcml.ai/)).
+
+::: {layout-ncol=2}
+
+<a href="https://www.lmu.de/en/"><img src="../assets/LMU_Logo_RGB_FlaechigGruen.png" height="70px" style="display:block;margin:auto;"></a>
+
+<a href="https://mcml.ai/"><img src="../assets/MCML_Logo_cropped.jpg" height="70px" style="display:block;margin:auto;"></a>
+
+:::
+
+
 <!-- {{< include /program/index.qmd >}} -->
 
