@@ -4,7 +4,7 @@
     "href": "contact/index.html",
     "title": "Contact",
     "section": "",
-    "text": "If you have any questions, do not hesitate to contact the local organizers at msmr2027@ibe.med.uni-muenchen.de.\nLocal organizers:\n\n\n\n\n\n\nAnne-Laure Boulesteix\n\n\n\n\n\n\n\nMoritz Herrmann\n\n\n\n\n\n\n\nMarieke Stolte\n\n\n\n\n\n\n\nEdouard Bonneville\n\n\n\n\n\nScientific advisors representing MSMR in various fields:\n\nBernd Bischl\nEiko Fried\nJessica Flake\nMalte Lücken"
+    "text": "Contact\nIf you have any questions, do not hesitate to contact the local organizers at msmr2027@ibe.med.uni-muenchen.de.\nLocal organizers:\n\n\n\n\n\n\nAnne-Laure Boulesteix\n\n\n\n\n\n\n\nMoritz Herrmann\n\n\n\n\n\n\n\nMarieke Stolte\n\n\n\n\n\n\n\nEdouard Bonneville\n\n\n\n\n\nScientific advisors representing MSMR in various fields:\n\nBernd Bischl\nEiko Fried\nJessica Flake\nMalte Lücken\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "travel/index.html",
@@ -47,6 +47,13 @@
     "title": "2nd Interdisciplinary Symposium on Meta Science for Methods Research",
     "section": "",
     "text": "Date: 30 and 31 August, 2027\nLocation: Munich, Germany (venue TBA)\n\nThe aim of this event is to bring together researchers from different fields of methodological research (including, but not limited to (bio)statistics, psychometrics, econometrics, bioinformatics, machine learning, quantitative methods for ecology, linguistics, etc.) who are interested in meta science on methods research, discuss how new quantitative methods are developed, evaluated and published in our respective fields, and how this process can be improved by sharing our thoughts and experiences across disciplines.\n\nJoin us to share your work, to exchange ideas, and to shape the future of meta science on methods research!\nFor more information, see the website from the 1st MSMR conference.\nAbstract submission expected to open in spring 2027"
+  },
+  {
+    "objectID": "index.html#organization",
+    "href": "index.html#organization",
+    "title": "2nd Interdisciplinary Symposium on Meta Science for Methods Research",
+    "section": "Organization",
+    "text": "Organization\nThis workshop is joint initiative by the Boulesteix lab at the Institute for Medical Information Processing, Biometry, and Epidemiology (IBE) at LMU Munich, and the Munich Center for Machine Learning (MCML)."
   },
   {
     "objectID": "code-of-conduct/index.html",
