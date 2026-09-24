@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lmu-ibe-bmm.github.io/msmr/contact/index.html</loc>
-    <lastmod>2026-09-22T08:35:15.292Z</lastmod>
-  </url>
-  <url>
     <loc>https://lmu-ibe-bmm.github.io/msmr/travel/index.html</loc>
-    <lastmod>2026-09-22T08:35:15.293Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-ibe-bmm.github.io/msmr/program/talks/program.html</loc>
-    <lastmod>2026-09-22T08:35:15.293Z</lastmod>
+    <lastmod>2026-09-24T07:47:27.087Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-ibe-bmm.github.io/msmr/program/posters.html</loc>
-    <lastmod>2026-09-22T08:35:15.293Z</lastmod>
+    <lastmod>2026-09-24T07:47:27.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-ibe-bmm.github.io/msmr/program/talks/program.html</loc>
+    <lastmod>2026-09-24T07:47:27.087Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-ibe-bmm.github.io/msmr/program/posters/h-oberman.html</loc>
-    <lastmod>2026-09-22T08:35:15.293Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-ibe-bmm.github.io/msmr/index.html</loc>
-    <lastmod>2026-09-22T08:35:15.292Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-ibe-bmm.github.io/msmr/code-of-conduct/index.html</loc>
-    <lastmod>2026-09-22T08:35:15.292Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-ibe-bmm.github.io/msmr/program/index.html</loc>
-    <lastmod>2026-09-22T08:35:15.292Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-ibe-bmm.github.io/msmr/program/talks/t-morris.html</loc>
-    <lastmod>2026-09-22T08:35:15.293Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-ibe-bmm.github.io/msmr/committee/index.html</loc>
-    <lastmod>2026-09-22T08:35:15.292Z</lastmod>
+    <lastmod>2026-09-24T07:47:27.087Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-ibe-bmm.github.io/msmr/call/index.html</loc>
-    <lastmod>2026-09-22T08:35:15.292Z</lastmod>
+    <lastmod>2026-09-24T07:47:27.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-ibe-bmm.github.io/msmr/committee/index.html</loc>
+    <lastmod>2026-09-24T07:47:27.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-ibe-bmm.github.io/msmr/contact/index.html</loc>
+    <lastmod>2026-09-24T07:47:27.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-ibe-bmm.github.io/msmr/index.html</loc>
+    <lastmod>2026-09-24T07:47:27.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-ibe-bmm.github.io/msmr/program/index.html</loc>
+    <lastmod>2026-09-24T07:47:27.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-ibe-bmm.github.io/msmr/program/talks/t-morris.html</loc>
+    <lastmod>2026-09-24T07:47:27.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-ibe-bmm.github.io/msmr/code-of-conduct/index.html</loc>
+    <lastmod>2026-09-24T07:47:27.086Z</lastmod>
   </url>
 </urlset>
