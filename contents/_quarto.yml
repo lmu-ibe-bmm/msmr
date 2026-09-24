@@ -15,7 +15,7 @@ website:
            \ Source code on [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-alt="GitHub" width=30px}](https://github.com/lmu-ibe-bmm/msmr)
            
            
-    #favicon: 'assets/Logo_CRS_col.svg'
+    favicon: 'assets/msmr.png'
     
     #site-url: https://crsuzh.pages.uzh.ch/msmr
     repo-url: https://github.com/lmu-ibe-bmm/msmr
