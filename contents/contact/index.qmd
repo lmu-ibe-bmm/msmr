@@ -6,19 +6,19 @@ Local organizers:
 
 ::: {layout-ncol=4}
 
-![[Anne-Laure Boulesteix](https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html)](../assets/anne-laure_boulesteix.jpg){height=200px fig-align="left"}
+![[Anne-Laure Boulesteix](https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html){target="_blank"}](../assets/anne-laure_boulesteix.jpg){height=200px fig-align="left"}
 
-![[Moritz Herrmann](https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/mitarbeiter/herrmann_moritz/index.html)](../assets/moritz_herrmann.jpg){height=200px fig-align="left"}
+![[Moritz Herrmann](https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/mitarbeiter/herrmann_moritz/index.html){target="_blank"}](../assets/moritz_herrmann.jpg){height=200px fig-align="left"}
 
-![[Marieke Stolte](https://scholar.google.at/citations?user=uKvFtG8AAAAJ&hl=en)](https://placehold.co/500x600){height=200px layout-valign="bottom"}
+![[Marieke Stolte](https://scholar.google.at/citations?user=uKvFtG8AAAAJ&hl=en){target="_blank"}](https://placehold.co/500x600){height=200px layout-valign="bottom"}
 
-![[Edouard Bonneville](https://de.linkedin.com/in/edbonneville)](../assets/ed_bonneville.jpg){height=200px fig-align="left"}
+![[Edouard Bonneville](https://de.linkedin.com/in/edbonneville){target="_blank"}](../assets/ed_bonneville.jpg){height=200px fig-align="left"}
 
 :::
 
 Scientific advisors representing MSMR in various fields:
 
-- [Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/) (Department of Statistics at LMU Munich and MCML, Munich, Germany)
-- [Jessica Flake](https://psych.ubc.ca/profile/jessica-flake/) (Department of Psychology, University of Bristish Columbia, Vancouver, Canada)
-- [Eiko Fried](https://www.universiteitleiden.nl/en/staffmembers/eiko-fried#tab-1) (Department of Clinical Psychology, Leiden University, The Netherlands)
-- [Malte Lücken](https://www.helmholtz-munich.de/en/icb/malte-luecken) (Institute for Computational Biology and Institute for Lung Health & Immunity, Helmholtz Munich, Munich, Germany)
+- [Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/){target="_blank"} (Department of Statistics at LMU Munich and MCML, Munich, Germany)
+- [Jessica Flake](https://psych.ubc.ca/profile/jessica-flake/){target="_blank"} (Department of Psychology, University of Bristish Columbia, Vancouver, Canada)
+- [Eiko Fried](https://www.universiteitleiden.nl/en/staffmembers/eiko-fried#tab-1){target="_blank"} (Department of Clinical Psychology, Leiden University, The Netherlands)
+- [Malte Lücken](https://www.helmholtz-munich.de/en/icb/malte-luecken){target="_blank"} (Institute for Computational Biology and Institute for Lung Health & Immunity, Helmholtz Munich, Munich, Germany)

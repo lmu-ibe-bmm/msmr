@@ -29,4 +29,4 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 
 ### Source 
 
-This code of conduct was adapted from the [Bioconductor project](https://www.bioconductor.org/about/code-of-conduct/) and the [Modern Benchmarking conference](https://sites.google.com/view/ascona2025/coc?authuser=0).
+This code of conduct was adapted from the [Bioconductor project](https://www.bioconductor.org/about/code-of-conduct/){target="_blank"} and the [Modern Benchmarking conference](https://sites.google.com/view/ascona2025/coc?authuser=0){target="_blank"}.
