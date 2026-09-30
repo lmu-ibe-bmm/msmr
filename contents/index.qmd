@@ -20,7 +20,7 @@ page-layout: full
 
 <!-- [Registration](https://forms.office.com/e/dTPgBdJDwm){.btn .btn-primary} -->
 
-The aim of this event is to bring together researchers from different fields of methodological research (including, but not limited to (bio)statistics, psychometrics, econometrics, bioinformatics, machine learning, quantitative methods for ecology, linguistics, etc.) who are interested in meta science on methods research, discuss how new quantitative methods are developed, evaluated and published in our respective fields, and how this process can be improved by sharing our thoughts and experiences across disciplines.
+The aim of this event is to bring together researchers from different fields of methodological research (including, but not limited to (bio)statistics, quantitative psychology, econometrics, bioinformatics, machine learning, quantitative methods for ecology, linguistics, etc.) who are interested in meta science on methods research, discuss how new quantitative methods are developed, evaluated and published in our respective fields, and how this process can be improved by sharing our thoughts and experiences across disciplines.
 
 <!-- The number of on-site places is limited. Registrations will be accepted on a first-come, first-served basis until June 15th. Attendance is free of charge. The symposium will also be live-streamed (registration also required). Researchers from all methodological research disciplines are welcome. -->
 
