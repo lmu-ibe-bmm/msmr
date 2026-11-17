@@ -28,7 +28,10 @@ Join us to share your work, to exchange ideas, and to shape the future of meta s
 
 For more information, see the website from the [1st MSMR conference](https://crsuzh.pages.uzh.ch/msmr/){target="_blank"}.
 
-**Abstract submission expected to open in spring 2027**
+- **Abstract submission expected to open in spring 2027**
+- The **confirmed keynote speakers** can be found [here](program/index.qmd).
+
+
 
 <!-- This event is co-sponsored by the [MCML](https://mcml.ai/), and [...]. -->
 

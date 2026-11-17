@@ -27,8 +27,8 @@ website:
         right:                  
         #  - text: "Call for Contributions"
         #    href: ./call/index.qmd
-        # - text: "Program"
-        #    href: ./program/index.qmd
+          - text: "Program and keynotes"
+            href: ./program/index.qmd
         #  - text: "Travel and Venue"
         #    href: ./travel/index.qmd
           - text: "Code of Conduct"

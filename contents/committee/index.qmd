@@ -6,7 +6,7 @@ The scientific committee is responsible for the evaluation and selection of the 
 
 ::: {layout-ncol=4}
 
-![Anne-Laure Boulesteix](../assets/anne-laure_boulesteix.jpg){height=200px fig-align="left"}
+
 
 ![Moritz Herrmann](../assets/moritz_herrmann.jpg){height=200px fig-align="left"}
 

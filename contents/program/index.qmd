@@ -1,8 +1,28 @@
-# Program {.unnumbered .unlisted}
+# Program and keynotes {.unnumbered .unlisted}
 
-### 30 August 2027
+## Confirmed keynote speakers
 
-(Markdown table, TBA)                                                                                                                                                        |
-### 31 August 2027
+::: {layout="[[2,2,2], [-1,2,2,-1]]" layout-valign="top"}
 
-(Markdown table, TBA)                                                                                                                                                                                                                  |
+![**Dr. Taya Collyer**\
+Monash University (AU)](../assets/taya_collyer.png){height="200px" fig-align="left"}
+
+![**Dr. Amanda Montoya**\
+UCLA (USA)
+](../assets/amanda_montoya.jpg){height="200px" fig-align="left"}
+
+![**Prof. Jessica Hullman**\
+Northwestern University (USA)](../assets/jessica_hullman.jpg){height="200px" fig-align="left"}
+
+![**Prof. Carolin Strobl**\
+University of Zurich (CH)](../assets/carolin_strobl.jpeg){height="200px" fig-align="left"}
+
+![**Prof. Ian White**\
+MRC Clinical Trials Unit at UCL (UK)](../assets/ian_white.jpg){height="200px" fig-align="left"}
+
+:::
+
+
+## Full program
+
+*To be announced*
