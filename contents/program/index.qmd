@@ -2,17 +2,20 @@
 
 ## Confirmed keynote speakers
 
-::: {layout="[[2,2,2], [-1,2,2,-1]]" layout-valign="top"}
+::: {layout="[[2,2,2], [2,2,2]]" layout-valign="top"}
 
 ![**Dr. Taya Collyer**\
 Monash University (AU)](../assets/taya_collyer.png){height="200px" fig-align="left"}
+
+![**Prof. Jessica Hullman**\
+Northwestern University (USA)](../assets/jessica_hullman.jpg){height="200px" fig-align="left"}
 
 ![**Dr. Amanda Montoya**\
 UCLA (USA)
 ](../assets/amanda_montoya.jpg){height="200px" fig-align="left"}
 
-![**Prof. Jessica Hullman**\
-Northwestern University (USA)](../assets/jessica_hullman.jpg){height="200px" fig-align="left"}
+![**Prof. Julio Saez-Rodriguez**\
+EMBL-European Bioinformatics Institute (UK)](../assets/julio_saez-rodriguez.jpg){height="200px" fig-align="left"}
 
 ![**Prof. Carolin Strobl**\
 University of Zurich (CH)](../assets/carolin_strobl.jpeg){height="200px" fig-align="left"}
